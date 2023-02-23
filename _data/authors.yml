@@ -2,17 +2,15 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Chiranjivee Joshi
+  email:             chiranjiveejoshi0206@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Chiranjivee is a Sports Nutritionist turned UX Designer. She decided to change tracks because she realised that a career in Nutrition did not fulfill
+    her need for creative expression. As a Designer, she believes in creating products that improve the life of users. She encourages mindful designs that
+    will continue to be accessible to all users.
 
   # This photo will be used in the about section
   picture:
@@ -26,9 +24,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    github:          chiranjiveejoshi
+    email:           chiranjiveejoshi0206@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -57,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        linkedin.com/in/chiranjivee-joshi-0335931ab
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
