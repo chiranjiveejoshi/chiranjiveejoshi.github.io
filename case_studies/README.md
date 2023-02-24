@@ -9,7 +9,7 @@ permalink: /case_studies/
 ---
 
 Here you will find three selected case-studies to showcase my work as a UX designer.
-Over here I will add an [embedded link](www.google.com) to Google.
+Over here I will add an [embedded link](https://www.google.com) to Google.
 
 ## Selected Case Studies
 * [Medi Track]{:.heading.flip-title} --- A Medication Reminder Tool
