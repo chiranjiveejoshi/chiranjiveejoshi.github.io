@@ -5,7 +5,6 @@ description: >
   A Medication Reminder Tool
 sitemap: false
 hide_last_modified: true
-permalink: /case_studies/
 ---
 
 This is a cross-platform tool that has been designed to help users keep track of their medication. It is targeted towards the elderly, and people with very busy schedules, as they tend to forget taking their prescribed medication at the right time.
