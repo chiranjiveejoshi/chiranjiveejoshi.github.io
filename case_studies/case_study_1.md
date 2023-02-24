@@ -25,6 +25,9 @@ User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi
 ### Dedicated Mobile App
 ![This is an image](../img_repo/CA_preview-9.jpg){:width="600" height="398" loading="lazy"}
 
+## Prototyping
+You can find my prototypes if you visit [this link](https://www.behance.net/chiranjjoshi)
+
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
