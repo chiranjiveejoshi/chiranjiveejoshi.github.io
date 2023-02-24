@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: MediTrack 
 description: >
   A Medication Reminder Tool
