@@ -25,6 +25,9 @@ User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi
 ### Dedicated Mobile App
 ![This is an image](../img_repo/CA_preview-9.jpg){:width="600" height="398" loading="lazy"}
 
+#### Mockup
+![Important Description](../img_repo/iPhone 13 Pro.png){:width="400" height="258" loading="lazy"}
+
 ## Prototyping
 You can find my prototypes if you visit [this link](https://www.behance.net/chiranjjoshi)
 
