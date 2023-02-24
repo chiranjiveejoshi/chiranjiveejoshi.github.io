@@ -53,7 +53,7 @@ menu:
   - title:             Resume
     url:               /docs/
   - title:             About me
-    url:               /about/
+    url:               /case_studies/
   - title: Example
     url: /example/
 
