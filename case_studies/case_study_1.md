@@ -22,6 +22,9 @@ Lead UX Designer, UX Researcher
 ### Responsibilities
 User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)
 
+### Dedicated Mobile App
+![This is an image](../img_repo/CA_preview-9.jpg){:width="600" height="398" loading="lazy"}
+
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
