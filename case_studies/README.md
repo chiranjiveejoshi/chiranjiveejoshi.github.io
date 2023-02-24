@@ -13,9 +13,10 @@ Over here I will add an [embedded link](https://www.google.com) to Google.
 
 ## Selected Case Studies
 * [Medi Track]{:.heading.flip-title} --- A Medication Reminder Tool
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
+* [Wedding Mantra]{:.heading.flip-title} --- Ceremonial bla bla bla.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
 
 [medi track]: case_study_1.md
+[wedding mantra]: case_study_2.md
