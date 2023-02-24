@@ -49,13 +49,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Case Studies
-    url:               /example/
+    url:               /case_studies/
   - title:             Resume
     url:               /docs/
   - title:             About me
     url:               /about/
-  - title: New Folder
-    url: /about/
+  - title: Example
+    url: /example/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
