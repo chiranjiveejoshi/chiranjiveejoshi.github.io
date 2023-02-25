@@ -44,7 +44,7 @@ My research began with a series of inquiries directed at a variety of people in 
 #### Persona 1: Ms. Aarushi Gore
 Problem Statement : Ms. Aarushi Gore is a workaholic who needs to plan her dream wedding without missing out on the current trends and fashion, and needs easy options to compare between different vendors because she doesn’t have the time to personally visit all the shops, venues, vendors, etc. 
 ![This is an image](../img_repo/cs1_img4_persona1.png){:width="500" height="250" loading="lazy"}
-
+![This is an image](../img_repo/cs1_img6_user_journey_map.png){:width="500" height="250" loading="lazy"}
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
