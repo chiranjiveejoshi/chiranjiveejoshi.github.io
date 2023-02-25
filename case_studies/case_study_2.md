@@ -31,7 +31,7 @@ User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi
 * Conduct test and research
 *  Re-iterate on designs
 
-![This is an image](../![cs1_img1_mockup](https://user-images.githubusercontent.com/126192903/221345425-44137659-7e0a-48e7-956f-ba463cd3e9eb.png)){:width="800" height="400" loading="lazy"}
+![This is an image](../![cs1_img1_mockup.png](https://user-images.githubusercontent.com/126192903/221345425-44137659-7e0a-48e7-956f-ba463cd3e9eb.png)){:width="800" height="400" loading="lazy"}
 
 
 ## Prototyping
