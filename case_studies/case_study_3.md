@@ -52,11 +52,11 @@ Sitemap is a diagram of a website or application, that shows how pages are prior
 
 #### Paper Wireframes
 Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to digital wireframes would be well-suited to address user pain points. 
-![This is an image](../img_repo/cs1_img7_paper_wireframes.png){:width="700" height="350" loading="lazy"}
+![This is an image](../img_repo/cs2_img6_paperwireframes.png){:width="600" height="300" loading="lazy"}
 #### Digital Wireframes
 As the initial design phase continued, I made sure to base screen designs on feedback and findings from  the user research.
-![This is an image](../img_repo/cs1_img8_digital_wireframe1.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs1_img9_digital_wireframe2.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs2_img7_digitalwireframes1.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs2_img8_digitalwireframes2.png){:width="500" height="250" loading="lazy"}
 #### Low-Fidelity Prototypes
 Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was short listing a vendor from ‘bride’s wear’ category, so the prototype could be used in a usability study. I also added other user flows like browsing the checklist, shortlist and ideas section.
 ![This is an image](../img_repo/cs1_img10_lofi_prototypes.png){:width="700" height="350" loading="lazy"}
