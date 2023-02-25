@@ -2,7 +2,7 @@
 layout: page
 title: Wedding Mantra 
 description: >
-  A Ceremonial Checklist App for a Trendy Wedding
+  **A Ceremonial Checklist App for a Trendy Wedding**
 sitemap: false
 hide_last_modified: true
 ---
@@ -22,7 +22,7 @@ To figure out if the users are successfully able to plan their dream wedding wit
 Lead UX Designer, UX Researcher
 
 ### My Responsibilities as a UX Designer
-User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)
+**User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)**
 
 * To design a ceremonial checklist app for trendy wedding
 * Ideate and design app screens
@@ -50,8 +50,8 @@ Taking the time to draft iterations of each screen of the app on paper ensured t
 ![This is an image](../img_repo/cs1_img7_paper_wireframes.png){:width="700" height="350" loading="lazy"}
 #### Digital Wireframes
 As the initial design phase continued, I made sure to base screen designs on feedback and findings from  the user research.
-![This is an image](../img_repo/cs1_img8_digital_wireframe1.png){:width="300" height="150" loading="lazy"}
-![This is an image](../img_repo/cs1_img9_digital_wireframe2.png){:width="300" height="150" loading="lazy"}
+![This is an image](../img_repo/cs1_img8_digital_wireframe1.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs1_img9_digital_wireframe2.png){:width="500" height="250" loading="lazy"}
 #### Low-Fidelity Prototypes
 Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was short listing a vendor from ‘bride’s wear’ category, so the prototype could be used in a usability study. I also added other user flows like browsing the checklist, shortlist and ideas section.
 ![This is an image](../img_repo/cs1_img10_lofi_prototypes.png){:width="700" height="350" loading="lazy"}
@@ -75,10 +75,12 @@ You can find my high-fidelity prototypes if you visit [this link](https://www.fi
 
 #### Going Forward
 #### Takeaways
-Impact: The feedback I have gotten from the final prototype is positive. My second usability study showed that the design of this app meets the user’s needs.
-One quote from peer feedback: “That’s a pretty good design and flow.”
+**Impact:** The feedback I have gotten from the final prototype is positive. My second usability study showed that the design of this app meets the user’s needs.
+**One quote from peer feedback:** *“That’s a pretty good design and flow.”*
 #### What I learned
 In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and usability studies, I was able to iterate a comprehensive and inclusive design. 
+#### Next Steps
+![This is an image](../img_repo/cs1_img14_next_steps.png){:width="400" height="200" loading="lazy"}
 
 
 ## Inline HTML elements
