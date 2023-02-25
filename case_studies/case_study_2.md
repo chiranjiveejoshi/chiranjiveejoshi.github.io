@@ -69,7 +69,8 @@ Using the completed set of low-fidelity prototypes, I created a high-fidelity mo
 #### Mockups
 
 ##### High-Fidelity Prototyping
-You can find my high-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?node-id=105%3A82&scaling=scale-down&page-id=0%3A1&starting-point-node-id=105%3A40)
+You can find my high-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?page-id=713%3A2445&node-id=713%3A3679&viewport=412%2C150%2C0.06&scaling=scale-down&starting-point-node-id=713%3A3679)
+
 
 
 ## Inline HTML elements
