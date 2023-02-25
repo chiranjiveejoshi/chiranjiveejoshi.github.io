@@ -34,7 +34,7 @@ Lead UX Designer, UX Researcher
 ![This is an image](../img_repo/cs1_img1_mockup.png){:width="600" height="300" loading="lazy"}
 
 
-### Understanding The User : User research
+### Understanding The User : User Research
 #### User Research Summary
 My research began with a series of inquiries directed at a variety of people in order to have a better understanding of their issues and demands in planning a wedding. The purpose of this study was to gain a better understanding of individuals and their needs, as well as to put them at the center of my design process, and product. I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. I conducted an unmoderated user reasearch with 5 participants on remote basis.
 ![This is an image](../img_repo/cs1_img5_study_details_revised.png){:width="500" height="250" loading="lazy"}
@@ -58,7 +58,7 @@ Using the completed set of digital wireframes, I created a low-fidelity prototyp
 ##### Low-Fidelity Prototyping
 You can find my low-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?node-id=105%3A82&scaling=scale-down&page-id=0%3A1&starting-point-node-id=105%3A40)
 #### Usability Study Findings
-Connect Online Portals : If one can connect online in this app and groups can be made with friends and family to directly share wishlist within the app itself.
+**Connect Online Portals :** If one can connect online in this app and groups can be made with friends and family to directly share wishlist within the app itself.
 
 ### Refining The Design
 People wanted to be able to share the wishlist/shortlist/favourites list with their friends and family groups online. This feature was not there before but haven been added after usability study.
@@ -81,7 +81,7 @@ You can find my high-fidelity prototypes if you visit [this link](https://www.fi
 #### What I learned
 In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and usability studies, I was able to iterate a comprehensive and inclusive design. 
 #### Next Steps
-![This is an image](../img_repo/cs1_img14_next_steps.png){:width="400" height="200" loading="lazy"}
+![This is an image](../img_repo/cs1_img14_next_steps.png){:width="600" height="300" loading="lazy"}
 
 
 ## Inline HTML elements
