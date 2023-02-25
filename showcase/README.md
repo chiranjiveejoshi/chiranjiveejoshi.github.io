@@ -5,11 +5,10 @@ description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
 sitemap: false
-permalink: /case_studies/
+permalink: /showcase/
 ---
 
 Here you will find three selected case-studies to showcase my work as a UX designer.
-Over here I will add an [embedded link](https://www.google.com) to Google.
 
 ## Selected Case Studies
 * [Medi Track]{:.heading.flip-title} --- A Medication Reminder Tool
