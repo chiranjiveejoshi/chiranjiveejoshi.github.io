@@ -13,7 +13,7 @@ Over here I will add an [embedded link](https://www.google.com) to Google.
 
 ## Selected Case Studies
 * [Medi Track]{:.heading.flip-title} --- A Medication Reminder Tool
-* [Wedding Mantra]{:.heading.flip-title} --- Ceremonial bla bla bla.
+* [Wedding Mantra]{:.heading.flip-title} --- A Ceremony Checklist App for a Trendy Wedding
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
