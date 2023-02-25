@@ -39,8 +39,11 @@ You can find my prototypes if you visit [this link](https://www.behance.net/chir
 ### Understanding The User : User research
 #### User Research Summary
 My research began with a series of inquiries directed at a variety of people in order to have a better understanding of their issues and demands in planning a wedding. The purpose of this study was to gain a better understanding of individuals and their needs, as well as to put them at the center of my design process, and product. I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. I conducted an unmoderated user reasearch with 5 participants on remote basis.
-![This is an image](../img_repo/cs1_img2_study_details.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs1_img5_study_details_revised.png){:width="500" height="250" loading="lazy"}
 ![This is an image](../img_repo/cs1_img3_pain_points.png){:width="500" height="250" loading="lazy"}
+#### Persona 1: Ms. Aarushi Gore
+Problem Statement : Ms. Aarushi Gore is a workaholic who needs to plan her dream wedding without missing out on the current trends and fashion, and needs easy options to compare between different vendors because she doesn’t have the time to personally visit all the shops, venues, vendors, etc.
+![This is an image](../img_repo/cs1_img4_persona1.png){:width="500" height="250" loading="lazy"}
 
 ## Inline HTML elements
 
