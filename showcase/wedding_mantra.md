@@ -8,7 +8,7 @@ hide_last_modified: true
 ---
 
 0. Line to be replace by toc
-{:.toc}
+{:toc}
 
 I undertook this project to help individuals who have a busy demanding schedule or are out of station or by some means are not able to spare times, to plan a dream wedding for themselves or their friends and family, without missing out on the current trends and fashion, and easy options to compare between different vendors online, through an app, since they do not have the time to personally visit all the shops, venues, vendors, etc.
 
