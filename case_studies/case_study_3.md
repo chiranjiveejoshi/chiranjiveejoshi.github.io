@@ -46,6 +46,10 @@ to watch movies but is super busy for 6 days a week and spends more than 9 hours
 ![This is an image](../img_repo/cs2_img4_user_journey_map.png){:width="500" height="250" loading="lazy"}
 
 ### The Design
+#### Sitemap
+Sitemap is a diagram of a website or application, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. During the construction of this sitemap, the results of the user testing were implemented for easy user flow. I also limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
+![This is an image](../img_repo/cs2_img5_sitemap.png){:width="500" height="250" loading="lazy"}
+
 #### Paper Wireframes
 Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to digital wireframes would be well-suited to address user pain points. 
 ![This is an image](../img_repo/cs1_img7_paper_wireframes.png){:width="700" height="350" loading="lazy"}
