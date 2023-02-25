@@ -50,8 +50,8 @@ Taking the time to draft iterations of each screen of the app on paper ensured t
 ![This is an image](../img_repo/cs1_img7_paper_wireframes.png){:width="700" height="350" loading="lazy"}
 #### Digital Wireframes
 As the initial design phase continued, I made sure to base screen designs on feedback and findings from  the user research.
-![This is an image](../img_repo/cs1_img8_digital_wireframe1.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs1_img9_digital_wireframe2.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs1_img8_digital_wireframe1.png){:width="300" height="150" loading="lazy"}
+![This is an image](../img_repo/cs1_img9_digital_wireframe2.png){:width="300" height="150" loading="lazy"}
 #### Low-Fidelity Prototypes
 Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was short listing a vendor from ‘bride’s wear’ category, so the prototype could be used in a usability study. I also added other user flows like browsing the checklist, shortlist and ideas section.
 ![This is an image](../img_repo/cs1_img10_lofi_prototypes.png){:width="700" height="350" loading="lazy"}
@@ -65,12 +65,20 @@ People wanted to be able to share the wishlist/shortlist/favourites list with th
 ![This is an image](../img_repo/cs1_img11_redefining_design.png){:width="500" height="250" loading="lazy"}
 #### High-Fidelity Mockups and Prototypes
 Using the completed set of low-fidelity prototypes, I created a high-fidelity mockup and prototype.
-![This is an image](../img_repo/cs1_img12_hifi_prototypes.png){:width="600" height="300" loading="lazy"}
+![This is an image](../img_repo/cs1_img12_hifi_prototypes.png){:width="400" height="200" loading="lazy"}
 #### Mockups
 
 ##### High-Fidelity Prototyping
-You can find my high-fidelity prototypes if you click or visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?page-id=713%3A2445&node-id=713%3A3679&viewport=412%2C150%2C0.06&scaling=scale-down&starting-point-node-id=713%3A3679)
+You can find my high-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?page-id=713%3A2445&node-id=713%3A3679&viewport=412%2C150%2C0.06&scaling=scale-down&starting-point-node-id=713%3A3679)
 
+![This is an image](../img_repo/cs1_img13_accessibility_considerations.png){:width="500" height="250" loading="lazy"}
+
+#### Going Forward
+#### Takeaways
+Impact: The feedback I have gotten from the final prototype is positive. My second usability study showed that the design of this app meets the user’s needs.
+One quote from peer feedback: “That’s a pretty good design and flow.”
+#### What I learned
+In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and usability studies, I was able to iterate a comprehensive and inclusive design. 
 
 
 ## Inline HTML elements
