@@ -30,18 +30,20 @@ Lead UX Designer, UX Researcher
 * Conduct test and research
 * Re-iterate on designs
 
-![This is an image](../img_repo/cs2_img1.png){:width="600" height="300" loading="lazy"}
+![This is an image](../img_repo/cs2_img1_revised.png){:width="600" height="300" loading="lazy"}
 
 
 ### Understanding The User : User Research
 #### User Research Summary
-My research began with a series of inquiries directed at a variety of people in order to have a better understanding of their issues and demands in planning a wedding. The purpose of this study was to gain a better understanding of individuals and their needs, as well as to put them at the center of my design process, and product. I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. I conducted an unmoderated user reasearch with 5 participants on remote basis.
-![This is an image](../img_repo/cs1_img5_study_details_revised.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs1_img3_pain_points.png){:width="500" height="250" loading="lazy"}
-#### Persona 1: Ms. Aarushi Gore
-Problem Statement : Ms. Aarushi Gore is a workaholic who needs to plan her dream wedding without missing out on the current trends and fashion, and needs easy options to compare between different vendors because she doesn’t have the time to personally visit all the shops, venues, vendors, etc. 
-![This is an image](../img_repo/cs1_img4_persona1.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs1_img6_user_journey_map.png){:width="500" height="250" loading="lazy"}
+My research began with a series of inquiries directed at a variety of people in order to have a better understanding of their issues and demands in booking a seat for a movie. The purpose of this study was to gain a better understanding of individuals and their needs, as well as to put them at the center of my design process, and product. I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. I conducted an unmoderated user reasearch with 5 participants on remote basis.
+
+![This is an image](../img_repo/cs2_img2_pain_points.png){:width="500" height="250" loading="lazy"}
+
+#### Persona : Sydney
+Problem Statement : Sydney is a busy fashion designer who need to make sure that she can easily book her favourite seat for a movie online at anytime because she loves
+to watch movies but is super busy for 6 days a week and spends more than 9 hours daily at her boutique attending clients or designing new dresses.
+![This is an image](../img_repo/cs2_img3_persona.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs2_img4_user_journey_map.png){:width="500" height="250" loading="lazy"}
 
 ### The Design
 #### Paper Wireframes
