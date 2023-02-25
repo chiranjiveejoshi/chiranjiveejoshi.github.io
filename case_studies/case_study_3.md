@@ -70,16 +70,17 @@ You can find my low-fidelity prototypes if you visit [this link](https://xd.adob
 ### Refining The Design
 People wanted to be able to share the wishlist/shortlist/favourites list with their friends and family groups online. This feature was not there before but haven been added after usability study.
 ![This is an image](../img_repo/cs1_img11_redefining_design.png){:width="500" height="250" loading="lazy"}
+
 #### High-Fidelity Mockups and Prototypes
 Using the completed set of low-fidelity prototypes, I created a high-fidelity mockup and prototype.
-![This is an image](../img_repo/cs1_img12_hifi_prototypes.png){:width="400" height="200" loading="lazy"}
+![This is an image](../img_repo/cs2_img13_hifimockups.png){:width="400" height="200" loading="lazy"}
 #### Mockups (Original Screen Size)
-![This is an image](../img_repo/cs2_img12_mockups.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs2_img12_mockups.png){:width="700" height="350" loading="lazy"}
 
 ##### High-Fidelity Prototyping
-You can find my high-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?page-id=713%3A2445&node-id=713%3A3679&viewport=412%2C150%2C0.06&scaling=scale-down&starting-point-node-id=713%3A3679)
+You can find my high-fidelity prototypes if you visit [this link](https://xd.adobe.com/view/abd51dc7-1adf-429e-9174-79616b984f95-fe86/?fullscreen)
 
-![This is an image](../img_repo/cs1_img13_accessibility_considerations.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs2_img14_accessibility.png){:width="500" height="250" loading="lazy"}
 
 #### Going Forward
 #### Takeaways
