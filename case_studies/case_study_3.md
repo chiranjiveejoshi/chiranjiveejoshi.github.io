@@ -59,9 +59,9 @@ As the initial design phase continued, I made sure to base screen designs on fee
 ![This is an image](../img_repo/cs2_img8_digitalwireframes2.png){:width="500" height="250" loading="lazy"}
 #### Low-Fidelity Prototypes
 Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was short listing a vendor from ‘bride’s wear’ category, so the prototype could be used in a usability study. I also added other user flows like browsing the checklist, shortlist and ideas section.
-![This is an image](../img_repo/cs1_img10_lofi_prototypes.png){:width="700" height="350" loading="lazy"}
+![This is an image](../img_repo/cs2_img9_lofi_prototype.png){:width="700" height="350" loading="lazy"}
 ##### Low-Fidelity Prototyping
-You can find my low-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?node-id=105%3A82&scaling=scale-down&page-id=0%3A1&starting-point-node-id=105%3A40)
+You can find my low-fidelity prototypes if you visit [this link](https://xd.adobe.com/view/002b3d7b-019c-41c8-aa6a-2443ab2a8a6d-5578/screen/06a8b176-7981-4f82-ae47-1436f85d71b7?fullscreen)
 #### Usability Study Findings
 **Connect Online Portals :** If one can connect online in this app and groups can be made with friends and family to directly share wishlist within the app itself.
 
