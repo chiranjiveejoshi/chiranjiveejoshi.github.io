@@ -33,8 +33,6 @@ User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi
 
 ![This is an image](../img_repo/cs1_img1_mockup.png){:width="600" height="300" loading="lazy"}
 
-## Prototyping
-You can find my prototypes if you visit [this link](https://www.behance.net/chiranjjoshi)
 
 ### Understanding The User : User research
 #### User Research Summary
@@ -50,6 +48,15 @@ Problem Statement : Ms. Aarushi Gore is a workaholic who needs to plan her dream
 #### Paper Wireframes
 Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to digital wireframes would be well-suited to address user pain points. 
 ![This is an image](../img_repo/cs1_img7_paper_wireframes.png){:width="700" height="350" loading="lazy"}
+#### Digital Wireframes
+As the initial design phase continued, I made sure to base screen designs on feedback and findings from  the user research.
+![This is an image](../img_repo/cs1_img8_digital_wireframe1.png){:width="600" height="300" loading="lazy"}
+![This is an image](../img_repo/cs1_img9_digital_wireframe2.png){:width="600" height="300" loading="lazy"}
+#### Low-Fidelity Prototypes
+Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was short listing a vendor from ‘bride’s wear’ category, so the prototype could be used in a usability study. I also added other user flows like browsing the checklist, shortlist and ideas section.
+![This is an image](../img_repo/cs1_img10_lofi_prototypes.png){:width="700" height="350" loading="lazy"}
+##### Prototyping
+You can find my low-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?node-id=105%3A82&scaling=scale-down&page-id=0%3A1&starting-point-node-id=105%3A40)
 
 
 
