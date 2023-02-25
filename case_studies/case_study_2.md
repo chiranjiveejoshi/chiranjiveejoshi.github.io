@@ -1,28 +1,35 @@
 ---
 layout: page
 title: Wedding Mantra 
-A Ceremony Checklist App for a Trendy Wedding: >
- 
+description: >
+  A Ceremonial Checklist App for a Trendy Wedding
 sitemap: false
 hide_last_modified: true
 ---
 
 I undertook this project to help individuals who have a busy demanding schedule or are out of station or by some means are not able to spare times, to plan a dream wedding for themselves or their friends and family, without missing out on the current trends and fashion, and easy options to compare between different vendors online, through an app, since they do not have the time to personally visit all the shops, venues, vendors, etc.
-![image](https://user-images.githubusercontent.com/126192903/221344263-e4297ed2-5b9e-4b18-8ee4-1d50bafe50f8.png)
 
 > Project Duration: 8 weeks
 
 ### The Problem
-People often forget to take their medications at the correct time. That is especially true for senior citizens and people with extremely hectic llives.
+Most of the individuals have a busy demanding schedule or are out of station or by some means are not able to spare time, to plan a dream wedding for themselves or their friends and family. I wanted to develop an app that is a one-stop-shop app which can help these individuals to plan the wedding without missing out on the current trends and fashion, and find easy options to compare between different vendors online through an app since they do not have the time to personally visit 
+all the shops, venues, vendors, etc.
 
 ### The Goal
-The goal is to design a simple tool that can help improve a person's quality of life by keeping track of medications and remiinding the users at the appropriate time
+To figure out if the users are successfully able to plan their dream wedding without missing out on the current trends and fashion by allowing them to surf through, and easily compare between different venues and vendors, book/finalise the vendors and add tasks to checklists.
 
 ### My Role
 Lead UX Designer, UX Researcher
 
-### Responsibilities
+### My Responsibilities as a UX Designer
 User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)
+
+* To design a ceremonial checklist app for trendy wedding
+* Ideate and design app screens
+* Test designs
+* Ensure that the designs are interactive and provide a good user flow, user journey and a user experience
+* Conduct test and research
+*  Re-iterate on designs
 
 ### Dedicated Mobile App
 ![This is an image](../img_repo/CA_preview-9.jpg){:width="600" height="398" loading="lazy"}
