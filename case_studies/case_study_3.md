@@ -2,21 +2,20 @@
 layout: page
 title: CinePlex 
 description: >
-  **A Ceremonial Checklist App for a Trendy Wedding**
+  **A Seat Reservation Flow for a Movie Theatre**
 sitemap: false
 hide_last_modified: true
 ---
 
-I undertook this project to help individuals who have a busy demanding schedule or are out of station or by some means are not able to spare times, to plan a dream wedding for themselves or their friends and family, without missing out on the current trends and fashion, and easy options to compare between different vendors online, through an app, since they do not have the time to personally visit all the shops, venues, vendors, etc.
+CinePlex is a movie ticket booking app and a responsive website. CinePlex helps to book tickets for a movie for you and your friends and family, fast, in more efficient manner and in a fun way! You can book seats in advance and also cancel or reschedule.
 
-> Project Duration: 8 weeks
+> Project Duration: 4 weeks
 
 ### The Problem
-Most of the individuals have a busy demanding schedule or are out of station or by some means are not able to spare time, to plan a dream wedding for themselves or their friends and family. I wanted to develop an app that is a one-stop-shop app which can help these individuals to plan the wedding without missing out on the current trends and fashion, and find easy options to compare between different vendors online through an app since they do not have the time to personally visit 
-all the shops, venues, vendors, etc.
+Busy workers lack the time to book themselves or their friends and family, the tickets to the movies.
 
 ### The Goal
-To figure out if the users are successfully able to plan their dream wedding without missing out on the current trends and fashion by allowing them to surf through, and easily compare between different venues and vendors, book/finalise the vendors and add tasks to checklists.
+Streamline the process of booking tickets to save as much time and energy as possible and without any hustle!
 
 ### My Role
 Lead UX Designer, UX Researcher
@@ -24,14 +23,14 @@ Lead UX Designer, UX Researcher
 ### My Responsibilities as a UX Designer
 **User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)**
 
-* To design a ceremonial checklist app for trendy wedding
-* Ideate and design app screens
+* To design a seat reservation flow for a movie 
+* Ideate and design app and website screens
 * Test designs
 * Ensure that the designs are interactive and provide a good user flow, user journey and a user experience
 * Conduct test and research
-*  Re-iterate on designs
+* Re-iterate on designs
 
-![This is an image](../img_repo/cs1_img1_mockup.png){:width="600" height="300" loading="lazy"}
+![This is an image](../img_repo/cs2_img1.png){:width="600" height="300" loading="lazy"}
 
 
 ### Understanding The User : User Research
