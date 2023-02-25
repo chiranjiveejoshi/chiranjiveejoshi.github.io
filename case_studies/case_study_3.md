@@ -68,8 +68,7 @@ You can find my low-fidelity prototypes if you visit [this link](https://xd.adob
 ![This is an image](../img_repo/cs2_img11_studyfindings.png){:width="500" height="250" loading="lazy"}
 
 ### Refining The Design
-People wanted to be able to share the wishlist/shortlist/favourites list with their friends and family groups online. This feature was not there before but haven been added after usability study.
-![This is an image](../img_repo/cs1_img11_redefining_design.png){:width="500" height="250" loading="lazy"}
+![This is an image](../img_repo/cs2_img15_refinedmockups.png){:width="500" height="250" loading="lazy"}
 
 #### High-Fidelity Mockups and Prototypes
 Using the completed set of low-fidelity prototypes, I created a high-fidelity mockup and prototype.
