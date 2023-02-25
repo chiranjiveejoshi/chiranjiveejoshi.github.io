@@ -14,9 +14,10 @@ Over here I will add an [embedded link](https://www.google.com) to Google.
 ## Selected Case Studies
 * [Medi Track]{:.heading.flip-title} --- A Medication Reminder Tool
 * [Wedding Mantra]{:.heading.flip-title} --- A Ceremony Checklist App for a Trendy Wedding
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+* [CinePlex]{:.heading.flip-title} --- A Seat Reservation Flow for a Movie Theatre
 {:.related-posts.faded}
 
 
 [medi track]: case_study_1.md
 [wedding mantra]: case_study_2.md
+[cineplex]: case_study_3.md
