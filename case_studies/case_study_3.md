@@ -58,12 +58,14 @@ As the initial design phase continued, I made sure to base screen designs on fee
 ![This is an image](../img_repo/cs2_img7_digitalwireframes1.png){:width="500" height="250" loading="lazy"}
 ![This is an image](../img_repo/cs2_img8_digitalwireframes2.png){:width="500" height="250" loading="lazy"}
 #### Low-Fidelity Prototypes
-Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was short listing a vendor from ‘bride’s wear’ category, so the prototype could be used in a usability study. I also added other user flows like browsing the checklist, shortlist and ideas section.
+Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was right from loggin in to a user account to searching and setting loaction for easy theatre search to booking the ticket successfully.
 ![This is an image](../img_repo/cs2_img9_lofi_prototype.png){:width="700" height="350" loading="lazy"}
 ##### Low-Fidelity Prototyping
 You can find my low-fidelity prototypes if you visit [this link](https://xd.adobe.com/view/002b3d7b-019c-41c8-aa6a-2443ab2a8a6d-5578/screen/06a8b176-7981-4f82-ae47-1436f85d71b7?fullscreen)
+#### Usability Study Parameters
+![This is an image](../img_repo/cs2_img10_studyparameters.png){:width="500" height="250" loading="lazy"}
 #### Usability Study Findings
-**Connect Online Portals :** If one can connect online in this app and groups can be made with friends and family to directly share wishlist within the app itself.
+![This is an image](../img_repo/cs2_img11_studyfindings.png){:width="500" height="250" loading="lazy"}
 
 ### Refining The Design
 People wanted to be able to share the wishlist/shortlist/favourites list with their friends and family groups online. This feature was not there before but haven been added after usability study.
@@ -71,9 +73,9 @@ People wanted to be able to share the wishlist/shortlist/favourites list with th
 #### High-Fidelity Mockups and Prototypes
 Using the completed set of low-fidelity prototypes, I created a high-fidelity mockup and prototype.
 ![This is an image](../img_repo/cs1_img12_hifi_prototypes.png){:width="400" height="200" loading="lazy"}
-#### Mockups
-![This is an image](../img_repo/cs1_img15_mockups.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs1_img16_mockups.png){:width="500" height="250" loading="lazy"}
+#### Mockups (Original Screen Size)
+![This is an image](../img_repo/cs2_img12_mockups.png){:width="500" height="250" loading="lazy"}
+
 ##### High-Fidelity Prototyping
 You can find my high-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?page-id=713%3A2445&node-id=713%3A3679&viewport=412%2C150%2C0.06&scaling=scale-down&starting-point-node-id=713%3A3679)
 
