@@ -1,14 +1,16 @@
 ---
 layout: page
-title: MediTrack 
-description: >
-  A Medication Reminder Tool
+title: Wedding Mantra 
+A Ceremony Checklist App for a Trendy Wedding: >
+ 
 sitemap: false
 hide_last_modified: true
 ---
 
- He ata Wedding Mantra wala app ahe!!
-> Project Duration: 6 weeks
+I undertook this project to help individuals who have a busy demanding schedule or are out of station or by some means are not able to spare times, to plan a dream wedding for themselves or their friends and family, without missing out on the current trends and fashion, and easy options to compare between different vendors online, through an app, since they do not have the time to personally visit all the shops, venues, vendors, etc.
+![image](https://user-images.githubusercontent.com/126192903/221344263-e4297ed2-5b9e-4b18-8ee4-1d50bafe50f8.png)
+
+> Project Duration: 8 weeks
 
 ### The Problem
 People often forget to take their medications at the correct time. That is especially true for senior citizens and people with extremely hectic llives.
