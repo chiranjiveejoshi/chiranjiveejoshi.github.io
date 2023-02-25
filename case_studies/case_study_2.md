@@ -31,11 +31,8 @@ User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi
 * Conduct test and research
 *  Re-iterate on designs
 
-### Dedicated Mobile App
-![This is an image](../img_repo/CA_preview-9.jpg){:width="600" height="398" loading="lazy"}
+![This is an image](../![cs1_img1_mockup](https://user-images.githubusercontent.com/126192903/221345425-44137659-7e0a-48e7-956f-ba463cd3e9eb.png)){:width="800" height="400" loading="lazy"}
 
-#### Mockup
-![Important Description](../img_repo/iPhone 13 Pro.png){:width="400" height="258" loading="lazy"}
 
 ## Prototyping
 You can find my prototypes if you visit [this link](https://www.behance.net/chiranjjoshi)
