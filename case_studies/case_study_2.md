@@ -49,6 +49,8 @@ Problem Statement : Ms. Aarushi Gore is a workaholic who needs to plan her dream
 ### The Design
 #### Paper Wireframes
 Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to digital wireframes would be well-suited to address user pain points. 
+![This is an image](../img_repo/cs1_img7_paper_wireframes.png){:width="700" height="350" loading="lazy"}
+
 
 
 ## Inline HTML elements
