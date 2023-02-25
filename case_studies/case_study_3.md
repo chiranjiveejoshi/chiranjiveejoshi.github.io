@@ -86,7 +86,7 @@ You can find my high-fidelity prototypes if you visit [this link](https://xd.ado
 #### Takeaways
 **Impact:** The feedback I have gotten from the final prototype is positive. My second usability study showed that the design of this app meets the user’s needs.
 
-**One quote from peer feedback:** *“That’s a pretty good design and flow.”*
+**One quote from peer feedback:** *“Looks good for a high-fi. Keep up the good work!.”*
 #### What I learned
 In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and usability studies, I was able to iterate a comprehensive and inclusive design. 
 #### Next Steps
