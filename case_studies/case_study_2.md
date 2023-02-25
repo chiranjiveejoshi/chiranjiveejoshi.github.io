@@ -67,7 +67,8 @@ People wanted to be able to share the wishlist/shortlist/favourites list with th
 Using the completed set of low-fidelity prototypes, I created a high-fidelity mockup and prototype.
 ![This is an image](../img_repo/cs1_img12_hifi_prototypes.png){:width="400" height="200" loading="lazy"}
 #### Mockups
-
+![This is an image](../img_repo/cs1_img15_mockups.png){:width="700" height="350" loading="lazy"}
+![This is an image](../img_repo/cs1_img16_mockups.png){:width="700" height="350" loading="lazy"}
 ##### High-Fidelity Prototyping
 You can find my high-fidelity prototypes if you visit [this link](https://www.figma.com/proto/WrajIBh2EEDSxPT4MHQvv3/My-Wedding-Story?page-id=713%3A2445&node-id=713%3A3679&viewport=412%2C150%2C0.06&scaling=scale-down&starting-point-node-id=713%3A3679)
 
@@ -82,6 +83,11 @@ You can find my high-fidelity prototypes if you visit [this link](https://www.fi
 In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and usability studies, I was able to iterate a comprehensive and inclusive design. 
 #### Next Steps
 ![This is an image](../img_repo/cs1_img14_next_steps.png){:width="600" height="300" loading="lazy"}
+
+## Thank you for reviewing my work!
+If you’d like to connect with me, here’s my email id : bite.mantra0206@gmail.com
+
+
 
 
 ## Inline HTML elements
