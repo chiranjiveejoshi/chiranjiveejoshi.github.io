@@ -8,7 +8,7 @@ hide_last_modified: true
 ---
 
 0. Line to be replaced
-{:.toc}
+{:toc}
 
 CinePlex is a movie ticket booking app and a responsive website. CinePlex helps to book tickets for a movie for you and your friends and family, fast, in more efficient manner and in a fun way! You can book seats in advance and also cancel or reschedule.
 
