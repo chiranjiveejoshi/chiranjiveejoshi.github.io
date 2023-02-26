@@ -11,12 +11,16 @@ permalink: /resume/
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-This is a cr oss-platform tool that has been designed to help users keep track of their medication. It is targeted towards the elderly, and people with very busy schedules, as they tend to forget taking their prescribed medication at the right time.
-> Project Duration: 6 weeks
+#### Portfolio Link
+You can find my Portfolio if you visit [this link](https://chiranjiveejoshi.github.io/)
+#### Contact Number
++91-9594136558
 
-## Project Overview
-### The Problem
-People often forget to take their medications at the correct time. That is especially true for senior citizens and people with extremely hectic llives.
+## **EDUCATION**
+### Google UX Design Certificate 
+*04th September 2022 – 3rd March 2023, Online*
+Completed a rigorous training designed for entry-level job readiness. 15 modules included topics like: UX research fundamentals, inclusive design, low-fidelity and high-fidelity prototypes, and tools like Figma and Adobe XD. Completed hands-on projects and developed a portfolio including 3 projects to receive the certificate. 
+
 ### The Goal
 The goal is to design a simple tool that can help improve a person's quality of life by keeping track of medications and remiinding the users at the appropriate time
 ### My Role
