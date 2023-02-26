@@ -19,4 +19,4 @@ If you wish to connect with me, you can find me on [LinkedIn] or send me an [ema
 ![chinu_dp](/img_repo/5703ccae-fa82-423e-a2d3-a37074fc3e67.JPG){:width="400" height="600" loading="lazy"}
 
 [linkedin]: https://www.linkedin.com/in/chiranjivee-joshi-0335931ab/
-[email]: mailto:bitemantra0206@gmail.com
+[email]: mailto:chiranjiveejoshi0206@gmail.com
