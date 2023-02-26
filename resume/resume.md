@@ -16,7 +16,7 @@ You can find my Portfolio if you visit [this link](https://chiranjiveejoshi.gith
 
 ## **EDUCATION**
 ### Google UX Design Certificate 
-**04th September 2022 – 3rd March 2023, Online;**
+**// 04th September 2022 – 3rd March 2023, Online;**
 *Completed a rigorous training designed for entry-level job readiness. 15 modules included topics like: UX research fundamentals, inclusive design, low-fidelity and high-fidelity prototypes, and tools like Figma and Adobe XD. Completed hands-on projects and developed a portfolio including 3 projects to receive the certificate.* 
 ### Gerogia Institute of Technology- Introduction to User Experience Design
 **4th July 2022 – 9th August 2022, Online;**
