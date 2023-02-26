@@ -5,6 +5,7 @@ description: >
   Resume
 sitemap: false
 hide_last_modified: true
+permalink: /resume/
 ---
 
 0. this unordered seed list will be replaced by toc as unordered list
