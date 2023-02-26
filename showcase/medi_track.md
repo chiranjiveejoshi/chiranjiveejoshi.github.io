@@ -100,7 +100,7 @@ The final prototype features many of the same design elements and flow as the lo
 ![desktop_hifi](../img_repo/cs3_img19_desktop_hifi_prototype.png){:width="600" height="400" loading="lazy"}
 
 ### Accesibility considerations
-![accessibility](../img_repo/cs3_img23_accesibility.png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/cs3_img23_accesibility.PNG){:width="600" height="400" loading="lazy"}
 
 ## Responsive Design
 ### Sitemap
@@ -123,5 +123,5 @@ One quote from the peer feedback:
 In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and
 usability studies, I was able to iterate a comprehensive and inclusive design.
 
-![takeaway](../img_repo/cs3_img22_takeaways.png){:width="600" height="400" loading="lazy"}
+![takeaway](../img_repo/cs3_img22_takeaways.PNG){:width="600" height="400" loading="lazy"}
 
