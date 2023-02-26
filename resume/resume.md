@@ -64,8 +64,20 @@ for understanding the user and tasks, a set of techniques to gather information 
 
 ## **SKILLS**
 ### Technical
-//  Figma  //  Adobe XD  //  Google Slides  //  MS Office
+//  Figma  //  Adobe XD  //  Google Slides, Word, Sheets  //  MS Office  //  IBM SPSS (Statistics)  //  Nutrisoft
 ### Design
 //  Wireframing  //  Mockups  //  Prototyping (Lo-Fi + Hi-Fi)  //  User Research  //  Usability studies  //  Presentation
 ### Collaboration
 //  Communicative  //  Design Critique + Feedback  //  Strong Presenter  //  Detail-oriented  //  Confident, Proactive and Enthusiastic
+### Nutrition
+//  Diet/Meal Planning  //  Nutritional Counselling  //  Functional Foods and Dietary Supplements  //  Nutritional, Body Composition and Fitness Assessment
+
+## OTHER ACHIEVEMENTS
+* Secured First Position in M.Sc. Sports Nutrition, Semester IV, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
+* Master's Thesis: Nutritional Status Assessment of Adults (20-50 years) exercising High Intensity Functional Training (HIFT) and studying the impact of HIFT on the Body Composition and Physical Fitness; Mumbai, Year- June 2019 –  May 2020, Guide- Dr. Neha Joshi
+* Participated in Webinar Series on ‘Sports Nutrition’, organized by Association of Sports, Nutrition and Fitness Sciences (2020)
+* Participated in one-day workshop on ‘Research Skills- Data Analysis and Research Writing’, organized by Nutrition Society of India (2020)
+* Volunteered at Health Mela, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
+* Adventure Course by Himalayan Mountaineering Institute, Darjeeling (West Bengal), India (2016)
+* Volunteered at Indian Dietetic Association, Mumbai Chapter (2016)
+* Was an active member of National Service Scheme (NSS) Committee in College (S.V.T. College of Home Science) (2016)
