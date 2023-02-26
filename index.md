@@ -6,7 +6,7 @@ permalink: /
 ---
 ## Welcome to my UX Design website!
 
-I am a Sports Nutritionist turned UX Designer. I decided to change tracks because I realised that a career in Nutrition did not fulfill my need for creative expression. As a Designer, I believe in creating products that improve the life of users. I encourage mindful designs that will continue to be accessible to all users.
+I am a Sports and Clinical Nutritionist turned UX Designer. I decided to change tracks because I realised that a career in Nutrition did not fulfill my need for creative expression. As a Designer, I believe in creating products that improve the life of users. I encourage mindful designs that will continue to be accessible to all users.
 {:.lead}
 
 [Showcase](/showcase/) --- You can view my work here.
