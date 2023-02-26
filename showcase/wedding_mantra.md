@@ -32,7 +32,7 @@ Lead UX Designer, UX Researcher
 * Test designs
 * Ensure that the designs are interactive and provide a good user flow, user journey and a user experience
 * Conduct test and research
-*  Re-iterate on designs
+* Re-iterate on designs
 
 ![This is an image](../img_repo/cs1_img1_mockup.png){:width="600" height="300" loading="lazy"}
 
