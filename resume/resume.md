@@ -40,6 +40,42 @@ for understanding the user and tasks, a set of techniques to gather information 
 **// June  2017 –  January 2018;**
 *by K11 Academy of Fitness Science, Mumbai*
 
+## **EXPERIENCE**
+### Health Coach (Nutritionist) at 23BMI, Mumbai
+**// November 2021 – Present;**
+*Handle Prospect Level 1 Calls, Client Profiling and Diet Planning, Assisting and Managing in Diet Programs and Diet Counselling of Clients, Assist Sr. Health Coach for Managing Clients, Assisting Product Development, Product Packaging and Operations, Research, Influencer Marketing, Wearing other Hats*
+### Team Nutritionist at Gauri Murthy Wellness and Sports Nutrition Center, Mumbai
+**// October 2020 – October 2021;**
+*Client Profiling, Nutritional Counselling and Diet Planning, Diet Diary Checks, Medical Entries and Research*
+### Consultant Dietitian at Talwalkar’s Gym, Mumbai 
+**// August 2018 – September 2018;**
+*Nutritional Counselling and Diet Planning, Nutrition and Body Composition Assessment*
+
+## **INTERNSHIP**
+### Gauri Murthy Wellness and Sports Nutrition Center, Mumbai 
+**// Nutrition Intern- September 2020 – October 2020;**
+*Assisted in Client Profiling and Nutritional Counselling, Diet Diary Checks, Medical Entries and Research*
+### Zymin Fitness Pvt. Ltd; Mumbai
+**// Summer Intern- May 2019 – July 2019;**
+*Nutritional Counselling & Diet/Meal Planning, Nutritional Status Assessment, Blogging, Social Media Posting & Research*
+### Breach Candy Hospital Trust, Mumbai
+**// Summer Intern- April 2018 – June 2018;**
+*Ward Rounds and Food Trolley Dispatch, Diet/Meal planning and Nutritional Counseling, Planning RT feeds for ICU patients*
+
+## **SKILLS**
+### Technical
+//  Figma  //  Adobe XD  //  Google Slides  //  MS Office
+### Design
+//  Wireframing  //  Mockups  //  Prototyping (Lo-Fi + Hi-Fi)  //  User Research  //  Usability studies  //  Presentation
+### Collaboration
+//  Communicative  //  Design Critique + Feedback  //  Strong Presenter  //  Detail-oriented  //  Confident, Proactive and Enthusiastic
+
+
+
+
+
+
+
 
 
 
