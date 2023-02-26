@@ -35,15 +35,19 @@ product. I gathered information through one-on-one interviews in order to learn 
 ### Personas
 #### Persona 1: Michelle Stewart
 > Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
+
 ![Persona2](../img_repo/cs3_img4_persona2.png){:width="600" height="400" loading="lazy"}
 
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
+
 ![Persona1](../img_repo/cs3_img3_persona1.png){:width="600" height="400" loading="lazy"}
 
 ### Competitive audit
 My goal in this competitive audit was to identify my key competitors and review the products my competitors offer. I looked at their visual layout and navigation, what resources they offer and their accessibility features. I also assessed what the competitors did well and what are the areas of improvement that I can incorporate in my products.
+
 ![Audit](../img_repo/cs3_img5_competitive_audit.png){:width="600" height="400" loading="lazy"}
+
 ### Ideation
 I used a crazy 8s method of ideation to come up with design ideas that meet the goals of the users. My main aim was to design multiple ideas that gives ideas for users goals like setting up a new reminder, snoozing a reminder, selection of day, date and time for medicines, adding a medicine list and history,etc.
 ![ideation](../img_repo/cs3_img6_ideation.png){:width="600" height="400" loading="lazy"}
@@ -57,10 +61,13 @@ As the design continued, I made sure to base screen designs on the findings from
 The links to low-fidelity prototypes that I have designed can be found below - 
 
 * Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=48%3A719&scaling=scale-down&page-id=47%3A277&starting-point-node-id=48%3A719&show-proto-sidebar=1))
+
 ![lofi_mobile](../img_repo/cs3_img8_mobileversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
 * Tablet Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=99%3A873&scaling=min-zoom&page-id=99%3A2&starting-point-node-id=99%3A873))
+
 ![lofi_tablet](../img_repo/cs3_img9_tabletversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=63%3A734&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=63%3))
+
 ![lofi_desktop](../img_repo/cs3_img10_desktopversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
 
 ### Usability Study: Parameters
@@ -93,7 +100,7 @@ The final prototype features many of the same design elements and flow as the lo
 ![desktop_hifi](../img_repo/cs3_img19_desktop_hifi_prototype.png){:width="600" height="400" loading="lazy"}
 
 ### Accesibility considerations
-![accessibility](../img_repo/cs3_img20_accesibility.png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/cs3_img23_accesibility.png){:width="600" height="400" loading="lazy"}
 
 ## Responsive Design
 ### Sitemap
@@ -106,5 +113,15 @@ The research and decisions I made when designing this project are all based on r
 
 ## Going Forward
 ### Takeaways
+#### Impact
+The feedback I have received from the final prototype is positive. My second usability study showed that the design of this app and it’s responsive website versions meets the user’s needs.
 
-### Next Steps
+One quote from the peer feedback:
+> "That's a pretty good and clear cut prototype"
+
+#### What I learned
+In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and
+usability studies, I was able to iterate a comprehensive and inclusive design.
+
+![takeaway](../img_repo/cs3_img22_takeaways.png){:width="600" height="400" loading="lazy"}
+
