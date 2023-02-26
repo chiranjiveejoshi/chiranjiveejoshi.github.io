@@ -11,9 +11,9 @@ permalink: /showcase/
 Here you will find three selected case-studies to showcase my work as a UX designer.
 
 ## Selected Case Studies
-* [Medi Track]{:.heading.flip-title} --- A Medication Reminder Tool
 * [Wedding Mantra]{:.heading.flip-title} --- A Ceremony Checklist App for a Trendy Wedding
 * [CinePlex]{:.heading.flip-title} --- A Seat Reservation Flow for a Movie Theatre
+* [Medi Track]{:.heading.flip-title} --- A Medication Reminder Tool
 {:.related-posts.faded}
 
 
