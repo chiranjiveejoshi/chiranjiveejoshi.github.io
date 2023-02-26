@@ -35,36 +35,52 @@ product. I gathered information through one-on-one interviews in order to learn 
 ### Personas
 #### Persona 1: Michelle Stewart
 > Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
+![Persona2](../img_repo/cs3_img4_persona2.png){:width="600" height="400" loading="lazy"}
 
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
+![Persona1](../img_repo/cs3_img3_persona1.png){:width="600" height="400" loading="lazy"}
 
 ### Competitive audit
 My goal in this competitive audit was to identify my key competitors and review the products my competitors offer. I looked at their visual layout and navigation, what resources they offer and their accessibility features. I also assessed what the competitors did well and what are the areas of improvement that I can incorporate in my products.
+![Audit](../img_repo/cs3_img5_competitive_audit.png){:width="600" height="400" loading="lazy"}
 ### Ideation
 I used a crazy 8s method of ideation to come up with design ideas that meet the goals of the users. My main aim was to design multiple ideas that gives ideas for users goals like setting up a new reminder, snoozing a reminder, selection of day, date and time for medicines, adding a medicine list and history,etc.
+![ideation](../img_repo/cs3_img6_ideation.png){:width="600" height="400" loading="lazy"}
  
 ## Starting the Design
 ### Digital Wireframes
 As the design continued, I made sure to base screen designs on the findings from the user rsearch.
+![wireframe](../img_repo/cs3_img7.png){:width="600" height="400" loading="lazy"}
 
 ### Low-fidelity prototypes
 The links to low-fidelity prototypes that I have designed can be found below - 
 
 * Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=48%3A719&scaling=scale-down&page-id=47%3A277&starting-point-node-id=48%3A719&show-proto-sidebar=1))
+![lofi_mobile](../img_repo/cs3_img8_mobileversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
 * Tablet Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=99%3A873&scaling=min-zoom&page-id=99%3A2&starting-point-node-id=99%3A873))
+![lofi_tablet](../img_repo/cs3_img9_tabletversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=63%3A734&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=63%3))
+![lofi_desktop](../img_repo/cs3_img10_desktopversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
 
+### Usability Study: Parameters
+![usability_parameters](../img_repo/cs3_img11_usability_study_parameters.png){:width="600" height="400" loading="lazy"}
 ### Usability Study: Findings
 These were the main findings that the usability study revealed
+![usability_findings](../img_repo/cs3_img12_usability_study_findings.png){:width="600" height="400" loading="lazy"}
 
 ## Refining the design
 ### Mockups
 Users were finding it difficult to select the date while setting erminders and hence preferred a full block calendar where dates and days are aligned to each other and easy to peruse.
-image here
+![mockup1](../img_repo/cs3_img13_mockup_before_after.png){:width="600" height="400" loading="lazy"}
 
 Users wanted an option to snooze reminders so that it won't be misseed out until the medicne is finally taken. An option to delete the reminder was also added.
-image here
+![mockup2](../img_repo/cs3_img14_mockup_before_after.png){:width="600" height="400" loading="lazy"}
+
+![mobile_mockup](../img_repo/cs3_img15_mobile_mockup.png){:width="600" height="400" loading="lazy"}
+![tablet_mockup](../img_repo/cs3_img16_tablet_mockup.png){:width="600" height="400" loading="lazy"}
+![desktop_mockup1](../img_repo/cs3_img17_desktop1_mockup.png){:width="600" height="400" loading="lazy"}
+![desktop_mockup2](../img_repo/cs3_img18_desktop2_mockup.png){:width="600" height="400" loading="lazy"}
 
 ### High-fidelity prototypes
 The links to low-fidelity prototypes that I have designed can be found below - 
@@ -74,12 +90,16 @@ The links to low-fidelity prototypes that I have designed can be found below -
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565))
 
 The final prototype features many of the same design elements and flow as the lo-fi prototype, but several more were added after the usability study.
+![desktop_hifi](../img_repo/cs3_img19_desktop_hifi_prototype.png){:width="600" height="400" loading="lazy"}
 
 ### Accesibility considerations
+![accessibility](../img_repo/cs3_img20_accesibility.png){:width="600" height="400" loading="lazy"}
 
 ## Responsive Design
 ### Sitemap
 Sitemap is a diagram of a website or application, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. During the construction of this sitemap, the results of the user testing were implemented for easy user flow. I also limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
+![sitemap](../img_repo/cs3_img21_sitemap.png){:width="600" height="400" loading="lazy"}
+
 
 ### Responsive Designs
 The research and decisions I made when designing this project are all based on real users who gave me a lot of insights to implement the usability and functionality of the product to achieve it’s ultimate goal of not missing to take a single medicine and to take it at the prescribed time.
