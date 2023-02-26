@@ -2,7 +2,7 @@
 layout: page
 title: Chiranjivee Joshi
 description: >
-  ### Resume
+### Resume
 sitemap: false
 hide_last_modified: true
 permalink: /resume/
@@ -19,12 +19,31 @@ You can find my Portfolio if you visit [this link](https://chiranjiveejoshi.gith
 **// 04th September 2022 – 3rd March 2023, Online;**
 *Completed a rigorous training designed for entry-level job readiness. 15 modules included topics like: UX research fundamentals, inclusive design, low-fidelity and high-fidelity prototypes, and tools like Figma and Adobe XD. Completed hands-on projects and developed a portfolio including 3 projects to receive the certificate.* 
 ### Gerogia Institute of Technology- Introduction to User Experience Design
-**4th July 2022 – 9th August 2022, Online;**
+**// 4th July 2022 – 9th August 2022, Online;**
 *Discovery of UX design, the definitions used in this field, specific terms, basic concepts and differences between different terms, four-step User Interface Design Cycle along with techniques that are relevant
 for understanding the user and tasks, a set of techniques to gather information about a) what the user needs b) how to design and model Interfaces based on these, and then c) how to evaluate the design to ascertain that the user’s goals are met.* 
 ### Master of Science (Home Science)- Sports Nutrition
-**August 2018 –  October 2020, Mumbai;**
+**// August 2018 –  October 2020;**
 *College of Home Science, Nirmala Niketan, University of Mumbai, Mumbai*
+### Bachelor of Science (Home Science)- Dietetics
+**// July 2015 –  April 2018;**
+*S.V.T. College of Home Science, S.N.D.T. Women’s University, Mumbai*
+
+## **ADDED COURSES**
+### Goethe-Zertifikat A1: Start Deutsch 1- German Language Exam
+**// 27th July 2022;**
+*Corresponds to the first level (A1) on the six-level scale of competence laid down in the Common European Framework of Reference for Languages (CEFR).*
+### Diabetes Educator, NDEP (National Diabetes Educator Program)
+**// August  2019 –  March 2020;**
+*by Dr. Mohan’s Diabetes Education Academy, Chennai*
+### Certificate Course in Sports Nutrition
+**// June  2017 –  January 2018;**
+*by K11 Academy of Fitness Science, Mumbai*
+
+
+
+
+
 
 ### The Goal
 The goal is to design a simple tool that can help improve a person's quality of life by keeping track of medications and remiinding the users at the appropriate time
