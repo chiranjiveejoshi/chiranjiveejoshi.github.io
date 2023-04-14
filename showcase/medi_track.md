@@ -95,16 +95,16 @@ The links to Lo-Fi Prototypes that I have designed can be found below-
 
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=63%3A734&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=63%3A734))
 
-![wireframe](../img_repo/WM.IMG.15.png){:width="600" height="400" loading="lazy"}
+![wireframe](../img_repo/MT.IMG.15.png){:width="600" height="400" loading="lazy"}
 
 
-![wireframe](../img_repo/WM.IMG.16.png){:width="600" height="400" loading="lazy"}
+![wireframe](../img_repo/MT.IMG.16.png){:width="600" height="400" loading="lazy"}
 
 
-![wireframe](../img_repo/WM.IMG.17.png){:width="600" height="400" loading="lazy"}
+![wireframe](../img_repo/MT.IMG.17.png){:width="600" height="400" loading="lazy"}
 
 
-![wireframe](../img_repo/WM.IMG.18.png){:width="600" height="400" loading="lazy"}
+![wireframe](../img_repo/MT.IMG.18.png){:width="600" height="400" loading="lazy"}
 
 
 ### Usability Study: Parameters
