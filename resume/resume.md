@@ -8,7 +8,9 @@ hide_last_modified: true
 permalink: /resume/
 ---
 ## Behance Link
-You can find my Portfolio if you visit [this link](../[showcase](https://www.behance.net/chiranjjoshi)/).
+You can find my Portfolio if you visit
+
+* ([This Link](https://www.behance.net/chiranjjoshi))
 
 ## **EDUCATION**
 ### Google UX Design Certificate 
@@ -68,10 +70,8 @@ Diet/Meal Planning | Nutritional Counselling | Functional Foods & Dietary Supple
 *by K11 Academy of Fitness Science, Mumbai*
 
 ## **OTHER ACHIEVEMENTS**
-•	Secured First Position in M.Sc. Sports Nutrition, Semester IV, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
-•	Participated in Webinar Series on ‘Sports Nutrition’, organized by Association of Sports, Nutrition and Fitness Sciences (2020)
-•	Participated in one-day workshop on ‘Research Skills- Data Analysis and Research Writing’, organized by Nutrition Society of India (2020)
-•	Volunteered at Health Mela, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
-•	Adventure Course by Himalayan Mountaineering Institute, Darjeeling (West Bengal), India (2016)
-•	Volunteered at Indian Dietetic Association, Mumbai Chapter (2016)
-•	Was an active member of National Service Scheme (NSS) Committee in College (S.V.T. College of Home Science) (2016)
+Secured First Position in M.Sc. Sports Nutrition, Semester IV, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
+Volunteered at Health Mela, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
+Adventure Course by Himalayan Mountaineering Institute, Darjeeling (West Bengal), India (2016)
+Volunteered at Indian Dietetic Association, Mumbai Chapter (2016)
+Was an active member of National Service Scheme (NSS) Committee in College (S.V.T. College of Home Science) (2016)
