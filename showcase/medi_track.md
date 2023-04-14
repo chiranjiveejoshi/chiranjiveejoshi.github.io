@@ -1,6 +1,7 @@
 ---
 layout: page
-title: MediTrack 
+title: Medi Track 
+![MT_mockup1](../img_repo/MT.IMG.Title Image.png){:width="400" height="258" loading="lazy"}
 description: >
   A Medication Reminder Tool
 sitemap: false
@@ -10,18 +11,18 @@ hide_last_modified: true
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-This is a cross-platform tool that has been designed to help users keep track of their medication. It is targeted towards the elderly, and people with very busy schedules, as they tend to forget taking their prescribed medication at the right time.
-> Project Duration: 6 weeks
+This is a Cross-platform Tool as a Responsive Website that has been designed to help users keep track of their Medication. It is targeted towards the elderly and people with very busy schedules as they tend to forget taking their prescribed Medication at the right time.
+> Project Duration: February 2023 to March 2023
 
 ## Project Overview
 ### The Problem
-People often forget to take their medications at the correct time. That is especially true for senior citizens and people with extremely hectic llives.
+People often forget to take their medications at the correct time. This is especially true for senior citizens and people with extremely hectic lives.
 ### The Goal
-The goal is to design a simple tool that can help improve a person's quality of life by keeping track of medications and remiinding the users at the appropriate time
+My goal is to design a simple tool that can help improve a person’s quality of life by keeping track of medications and reminding the users at the appropriate time.
 ### My Role
 Lead UX Designer, UX Researcher
 ### Responsibilities
-User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)
+User Research, Interviews, Usability Studies, Ideation, Wireframing, Mockups, Prototyping (Lo-Fi + Hi-Fi) and Testing
 ### Dedicated Mobile App
 ![MT_mockup1](../img_repo/iPhone 13 Pro.png){:width="400" height="258" loading="lazy"}
 
