@@ -10,35 +10,43 @@ hide_last_modified: true
 0. Line to be replaced
 {:toc}
 
-CinePlex is a movie ticket booking app and a responsive website. CinePlex helps to book tickets for a movie for you and your friends and family, fast, in more efficient manner and in a fun way! You can book seats in advance and also cancel or reschedule.
+CinePlex is a Website where you can purchase Movie Tickets. It facilitates quick and efficient booking for you, your friends, and your family, making the process more enjoyable. You can also reserve seats in advance and make changes to your booking, such as ‘Canceling’ or ‘Rescheduling’.
 
-> Project Duration: 4 weeks
+> Project Duration: January 2023 to February 2023
 
-### The Problem
-Busy workers lack the time to book themselves or their friends and family, the tickets to the movies.
+![This is an image](../img_repo/CP.IMG.Title Page.png){:width="600" height="300" loading="lazy"}
 
-### The Goal
-Streamline the process of booking tickets to save as much time and energy as possible and without any hustle!
-
+## Project Overview
 ### My Role
 Lead UX Designer, UX Researcher
-
 ### My Responsibilities as a UX Designer
 **User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)**
-
 * To design a seat reservation flow for a movie 
 * Ideate and design app and website screens
 * Test designs
 * Ensure that the designs are interactive and provide a good user flow, user journey and a user experience
 * Conduct test and research
 * Re-iterate on designs
+### The Problem
+Busy workers lack the time to book themselves or their friends and family, the tickets to the movies.
+### The Goal
+Streamline the process of booking tickets to save as much time and energy as possible and without any hustle!
+### Tools Used
+![This is an image](../img_repo/CP.IMG.03.png){:width="400" height="200" loading="lazy"}
 
-![This is an image](../img_repo/cs2_img1_revised.png){:width="600" height="300" loading="lazy"}
+## Design Process
+I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to ‘problem-solving’ that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
+![This is an image](../img_repo/CP.IMG.05.png){:width="800" height="400" loading="lazy"}
 
+## Understanding The User
+### User Research 
+I initiated my research by posing a series of questions to diverse individuals to comprehend their challenges and requirements when reserving a movie seat. The objective of this investigation was twofold: to obtain a deeper comprehension of people and their necessities and to prioritize them in my design approach and final product.
 
-### Understanding The User : User Research
-#### User Research Summary
-My research began with a series of inquiries directed at a variety of people in order to have a better understanding of their issues and demands in booking a seat for a movie. The purpose of this study was to gain a better understanding of individuals and their needs, as well as to put them at the center of my design process, and product. I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. I conducted an unmoderated user reasearch with 5 participants on remote basis.
+I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. 
+
+Through my research, I identified the user group as all individuals who don’t have time to personally visit movie theatres to book movie tickets or are busy and want to book tickets quickly without any hustle.
+
+I conducted an unmoderated user reasearch with 5 participants on remote basis.
 
 ![This is an image](../img_repo/cs2_img2_pain_points.png){:width="500" height="250" loading="lazy"}
 
