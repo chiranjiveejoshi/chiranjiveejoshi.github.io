@@ -19,7 +19,7 @@ CinePlex is a Website where you can purchase Movie Tickets. It facilitates quick
 ## Project Overview
 ### My Role
 Lead UX Designer, UX Researcher
-### My Responsibilities as a UX Designer
+### My Responsibilities
 **User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)**
 * To design a seat reservation flow for a movie 
 * Ideate and design app and website screens
@@ -36,6 +36,7 @@ Streamline the process of booking tickets to save as much time and energy as pos
 
 ## Design Process
 I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to ‘problem-solving’ that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
+
 ![This is an image](../img_repo/CP.IMG.05.png){:width="800" height="400" loading="lazy"}
 
 ## Understanding The User
@@ -55,45 +56,52 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 Based on my analysis from the research I carried out, I was able to identify two personas 
 that represent a diverse group of users. Also, I was able to comprehend what their
 frustrations are and what their needs might be.
+
 ![This is an image](../img_repo/CP.IMG.08.png){:width="1000" height="750" loading="lazy"}
 
 ### User Journey Map
 I created a User Journey Map which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
+
 ![This is an image](../img_repo/CP.IMG.09.png){:width="1000" height="750" loading="lazy"}
 
 
-### Sitemap
+## Sitemap
 I created a Sitemap, which is a diagram of a website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. During the construction of this sitemap, the results of the user testing were implemented for easy user flow. I also limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
+
 ![This is an image](../img_repo/CP.IMG.10.png){:width="700" height="350" loading="lazy"}
 
-![This is an image](../img_repo/CP.IMG.11.png){:width="700" height="350" loading="lazy"}
+## The Design
 
-### Paper Wireframes
+## Paper Wireframes
 * I proceeded to sketch Wireframes. 
 * I started with Paper Wireframes for the main interfaces that show a complete User Flow. The main goal in this stage was to create easy and quick iterations of the Design for a simple User Flow. 
 * Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
+* 
 ![This is an image](../img_repo/CP.IMG.12.png){:width="700" height="350" loading="lazy"}
 
-### Digital Wireframes
+## Digital Wireframes
 As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the user research and created Digital Wireframes making sure all the app features are iterated.
+
 ![This is an image](../img_repo/CP.IMG.13.png){:width="800" height="400" loading="lazy"}
 ![This is an image](../img_repo/CP.IMG.14.png){:width="800" height="400" loading="lazy"}
 
-### Low-Fidelity Prototypes
+## Low-Fidelity Prototypes
 Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main user journey that I observed involved first selecting a movie, then choosing a seat, making a payment, and finally receiving a confirmation message for the ticket.
+
 ![This is an image](../img_repo/CP.IMG.15.png){:width="700" height="350" loading="lazy"}
 
-##### Low-Fidelity Prototyping
+### Low-Fidelity Prototyping
 You can view my Low-fidelity Prototypes if you visit [this link](https://xd.adobe.com/view/002b3d7b-019c-41c8-aa6a-2443ab2a8a6d-5578/screen/06a8b176-7981-4f82-ae47-1436f85d71b7/?fullscreen)
 
-### Usability Study
+## Usability Study
 After prototyping the Low-Fidelity Wireframes, I conducted ‘Usability Study’ where I asked users to perform certain tasks to know how the users interacted with my Design. The first study helped me guide the Designs froms ‘Wireframes’ to ‘Mockups’.
-![This is an image](../img_repo/CP.IMG.16.png){:width="600" height="350" loading="lazy"}
 
-### Design Iterations
+![This is an image](../img_repo/CP.IMG.16.png){:width="400" height="200" loading="lazy"}
+
+## Design Iterations
 ![This is an image](../img_repo/CP.IMG.17.png){:width="800" height="450" loading="lazy"}
 
-### High-Fidelity Mockups 
+## High-Fidelity Mockups 
 ![This is an image](../img_repo/CP.IMG.18.1.png){:width="800" height="400" loading="lazy"}
 ![This is an image](../img_repo/CP.IMG.18.2.png){:width="800" height="400" loading="lazy"}
 
@@ -103,12 +111,11 @@ You can find my high-fidelity prototypes if you visit [this link](https://xd.ado
 ## Accessibiliy Considerations
 ![This is an image](../img_repo/CP.IMG.19.png){:width="500" height="250" loading="lazy"}
 
-### Takeaways
+## Takeaways
 **Impact:** The final prototype has received positive feedback, and the usability study indicates that the app's design is capable of meeting the user's needs.
 
 **One quote from peer feedback:** *“Looks good for a Hi-Fi! Keep up the good work.”*
-#### What I learned
-During the project's design process, I obtained valuable insights into the pivotal role that user research plays in UX. By meticulously analyzing the feedback obtained through user interviews, peer reviews, and usability studies, I could progressively develop a comprehensive and inclusive design. 
+**What I learned:** During the project's design process, I obtained valuable insights into the pivotal role that user research plays in UX. By meticulously analyzing the feedback obtained through user interviews, peer reviews, and usability studies, I could progressively develop a comprehensive and inclusive design. 
 
 ## Next Steps
 ![This is an image](../img_repo/CP.IMG.21.png){:width="600" height="300" loading="lazy"}
