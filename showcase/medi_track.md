@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Medi Track 
+
 ![MT_mockup1](../img_repo/MT.IMG.Title Image.png){:width="400" height="258" loading="lazy"}
+
 description: >
   A Medication Reminder Tool
 sitemap: false
@@ -23,6 +25,7 @@ My goal is to design a simple tool that can help improve a person’s quality of
 Lead UX Designer, UX Researcher
 ### Responsibilities
 User Research, Interviews, Usability Studies, Ideation, Wireframing, Mockups, Prototyping (Lo-Fi + Hi-Fi) and Testing
+![MT_mockup1](../img_repo/MT.IMG.02.png){:width="400" height="258" loading="lazy"}
 ### Dedicated Mobile App
 ![MT_mockup1](../img_repo/iPhone 13 Pro.png){:width="400" height="258" loading="lazy"}
 
