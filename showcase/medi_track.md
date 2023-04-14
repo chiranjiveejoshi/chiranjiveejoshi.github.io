@@ -13,6 +13,7 @@ hide_last_modified: true
 This is a Cross-platform Tool as a Responsive Website that has been designed to help users keep track of their Medication. It is targeted towards the elderly and people with very busy schedules as they tend to forget taking their prescribed Medication at the right time.
 > Project Duration: February 2023 to March 2023
 
+![MT_mockup1](../img_repo/MT.IMG.Title Image.png){:width="600" height="300" loading="lazy"}
 ## Project Overview
 ### The Problem
 People often forget to take their medications at the correct time. This is especially true for senior citizens and people with extremely hectic lives.
@@ -23,7 +24,11 @@ Lead UX Designer, UX Researcher
 ### Responsibilities
 User Research, Interviews, Usability Studies, Ideation, Wireframing, Mockups, Prototyping (Lo-Fi + Hi-Fi) and Testing
 ### Tools Used
-![MT_mockup1](../img_repo/MT.IMG.02.1.png){:width="800" height="400" loading="lazy"}
+![MT_mockup1](../img_repo/MT.IMG.02.1.png){:width="600" height="300" loading="lazy"}
+
+## Design Process
+I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
+![MT_mockup1](../img_repo/MT.IMG.04.1.png){:width="600" height="300" loading="lazy"}
 ### Dedicated Mobile App
 ![MT_mockup1](../img_repo/iPhone 13 Pro.png){:width="400" height="258" loading="lazy"}
 
