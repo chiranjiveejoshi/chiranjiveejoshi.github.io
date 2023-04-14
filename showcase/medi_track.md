@@ -11,29 +11,26 @@ hide_last_modified: true
 {:toc}
 
 This is a Cross-platform Tool as a Responsive Website that has been designed to help users keep track of their Medication. It is targeted towards the elderly and people with very busy schedules as they tend to forget taking their prescribed Medication at the right time.
+
 > Project Duration: February 2023 to March 2023
 
 ![MT_mockup1](../img_repo/MT.IMG.Title Image.png){:width="600" height="300" loading="lazy"}
+
 ## Project Overview
+### My Role
+Lead UX Designer, UX Researcher
+### My Responsibilities
+User Research, Interviews, Usability Studies, Ideation, Wireframing, Mockups, Prototyping (Lo-Fi + Hi-Fi) and Testing
 ### The Problem
 People often forget to take their medications at the correct time. This is especially true for senior citizens and people with extremely hectic lives.
 ### The Goal
 My goal is to design a simple tool that can help improve a person’s quality of life by keeping track of medications and reminding the users at the appropriate time.
-### My Role
-Lead UX Designer, UX Researcher
-### Responsibilities
-User Research, Interviews, Usability Studies, Ideation, Wireframing, Mockups, Prototyping (Lo-Fi + Hi-Fi) and Testing
 ### Tools Used
 ![MT_mockup1](../img_repo/MT.IMG.02.1.png){:width="400" height="200" loading="lazy"}
 
 ## Design Process
 I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
 ![Design Thinking Framework](../img_repo/MT.IMG.04.1.png){:width="600" height="300" loading="lazy"}
-### Dedicated Mobile App
-![MT_mockup1](../img_repo/iPhone 13 Pro.png){:width="400" height="258" loading="lazy"}
-
-Mockup of the mobile app
-{:.figcaption}
 
 ## Understanding the User
 ### User Research
@@ -41,53 +38,41 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 ### Personas
 #### Persona 1: Michelle Stewart
 > Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
-
 ![Persona1](../img_repo/MT.IMG.05.1.png){:width="700" height="350" loading="lazy"}
-
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
-
 ![Persona2](../img_repo/MT.IMG.05.2.png){:width="700" height="350" loading="lazy"}
 
-### Sitemap
+## Sitemap
 I created a Sitemap which is a diagram of a Website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. I limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
 ![Persona2](../img_repo/MT.IMG.06.png){:width="700" height="350" loading="lazy"}
 
-### Ideation
+## Ideation
 For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way to get ideas flowing for any design problem you need to solve. With Crazy Eights, you’ll sketch eight different designs, each with a new idea for solving the user’s problem. The best part? It only takes eight minutes!
-
-
 ![Persona2](../img_repo/WhatsApp Image 2023-04-13 at 14.13.44.jpeg){:width="700" height="350" loading="lazy"}
-
 
 ![Persona2](../img_repo/MT.IMG.08.png){:width="700" height="350" loading="lazy"}
 
 During the initial design phase, I focused on developing digital wireframes based on user research, feedback and findings. Specifically, I prioritized creating wireframes for the mobile version of the website.
 
 Additionally, I performed a usability study to identify any pain points that users may have experienced with my design. Based on the results, I iterated on the designs to address these issues.
+
 ![Persona2](../img_repo/MT.IMG.09.1.png){:width="700" height="350" loading="lazy"}
 ![Persona2](../img_repo/MT.IMG.09.2.png){:width="700" height="350" loading="lazy"}
+## Affinity Diagram 
+I created a ‘User Journey Map’, which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
+![Persona2](../img_repo/MT.IMG.10.png){:width="700" height="350" loading="lazy"}
 ![Persona2](../img_repo/MT.IMG.09.3.png){:width="700" height="350" loading="lazy"}
 
-### Affinity Diagram 
-I created a ‘User Journey Map’, which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
-
-![Persona2](../img_repo/MT.IMG.10.png){:width="700" height="350" loading="lazy"}
-
-### Digital Wireframes
-
+## Digital Wireframes
 ![wireframe](../img_repo/MT.IMG.11.png){:width="600" height="400" loading="lazy"}
-
 ![wireframe](../img_repo/MT.IMG.12.png){:width="600" height="400" loading="lazy"}
-
 ![wireframe](../img_repo/MT.IMG.13.png){:width="600" height="400" loading="lazy"}
 
-### Low-fidelity Prototypes
+## Low-fidelity Prototypes
 Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main user flow I established involved selecting a date to add a new reminder and then receiving a confirmation prompt once the reminder was successfully set, so the Prototype could be used in an Usability Study.
-
 ![wireframe](../img_repo/WM.IMG.14.png){:width="600" height="400" loading="lazy"}
 
-#### Low-fidelity Prototypes
 The links to Lo-Fi Prototypes that I have designed can be found below-
 
 * Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=48%3A719&scaling=scale-down&page-id=47%3A277&starting-point-node-id=48%3A719&show-proto-sidebar=1))
@@ -107,32 +92,27 @@ The links to Lo-Fi Prototypes that I have designed can be found below-
 
 ![wireframe](../img_repo/MT.IMG.18.png){:width="600" height="400" loading="lazy"}
 
-
-#### High-fidelity Prototypes
+## High-fidelity Prototypes
 The links to Hi-Fi Prototypes that I have designed can be found below-
 * Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=49%3A2174&scaling=scale-down&page-id=49%3A2172))
 * Tablet Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=105%3A2765&scaling=min-zoom&page-id=105%3A2764))
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565))
 
-### Accesibility Considerations
+## Accesibility Considerations
 ![accessibility](../img_repo/WM.IMG.19.png){:width="600" height="400" loading="lazy"}
 
-
-## Going Forward
-### Takeaways
-#### Impact
+## Takeaways
+### Impact
 Based on the feedback I received from the final prototype, it appears that the app's design is meeting the users' needs. The results of my second usability study were positive.
 
 One quote from the peer feedback:
 > "Beautiful Design and easy User Flow"
 
-#### What I learned
+### What I learned
 Through the process of designing this project, I gained a deeper appreciation for the importance of user research in the UX process. By incorporating insights from user interviews, peer reviews, and usability studies, I was able to iteratively develop a comprehensive and inclusive design.
 
-
-## NextSteps
+## Next Steps
 ![accessibility](../img_repo/WM.IMG.21.png){:width="600" height="400" loading="lazy"}
-
 
 ![accessibility](../img_repo/iPhone 13 Pro.png){:width="600" height="400" loading="lazy"}
 ![accessibility](../img_repo/iPad Mini.png){:width="600" height="400" loading="lazy"}
