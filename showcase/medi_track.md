@@ -34,7 +34,7 @@ My goal is to design a simple tool that can help improve a person’s quality of
 
 ## Design Process
 I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
-![Design Thinking Framework](../img_repo/MT.IMG.04.1.png){:width="600" height="300" loading="lazy"}
+![Design Thinking Framework](../img_repo/MT.IMG.04.1.png){:width="800" height="400" loading="lazy"}
 
 ## Understanding the User
 ### User Research
@@ -43,11 +43,11 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 #### Persona 1: Michelle Stewart
 > Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
 
-![Persona1](../img_repo/MT.IMG.05.1.png){:width="700" height="350" loading="lazy"}
+![Persona1](../img_repo/MT.IMG.05.1.png){:width="800" height="450" loading="lazy"}
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
 
-![Persona2](../img_repo/MT.IMG.05.2.png){:width="700" height="350" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.05.2.png){:width="800" height="450" loading="lazy"}
 
 ## Sitemap
 I created a Sitemap which is a diagram of a Website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. I limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
@@ -66,11 +66,11 @@ During the initial design phase, I focused on developing digital wireframes base
 
 Additionally, I performed a usability study to identify any pain points that users may have experienced with my design. Based on the results, I iterated on the designs to address these issues.
 
-![Persona2](../img_repo/MT.IMG.09.1.png){:width="700" height="350" loading="lazy"}
-![Persona2](../img_repo/MT.IMG.09.2.png){:width="700" height="350" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.09.1.png){:width="800" height="400" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.09.2.png){:width="800" height="400" loading="lazy"}
 ## Affinity Diagram 
 I created a ‘User Journey Map’, which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
-![Persona2](../img_repo/MT.IMG.10.png){:width="700" height="350" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.10.png){:width="800" height="450" loading="lazy"}
 ![Persona2](../img_repo/MT.IMG.09.3.png){:width="700" height="350" loading="lazy"}
 
 ## Digital Wireframes
@@ -80,7 +80,7 @@ I created a ‘User Journey Map’, which is an illustration of what the user go
 
 ## Low-fidelity Prototypes
 Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main user flow I established involved selecting a date to add a new reminder and then receiving a confirmation prompt once the reminder was successfully set, so the Prototype could be used in an Usability Study.
-![wireframe](../img_repo/WM.IMG.14.png){:width="600" height="400" loading="lazy"}
+![wireframe](../img_repo/WM.IMG.14.png){:width="800" height="400" loading="lazy"}
 
 The links to Lo-Fi Prototypes that I have designed can be found below-
 
