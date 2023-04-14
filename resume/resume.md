@@ -71,7 +71,11 @@ Diet/Meal Planning | Nutritional Counselling | Functional Foods & Dietary Supple
 
 ## **OTHER ACHIEVEMENTS**
 Secured First Position in M.Sc. Sports Nutrition, Semester IV, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
+
 Volunteered at Health Mela, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
+
 Adventure Course by Himalayan Mountaineering Institute, Darjeeling (West Bengal), India (2016)
+
 Volunteered at Indian Dietetic Association, Mumbai Chapter (2016)
+
 Was an active member of National Service Scheme (NSS) Committee in College (S.V.T. College of Home Science) (2016)
