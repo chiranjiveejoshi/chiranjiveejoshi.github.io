@@ -42,12 +42,20 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 #### Persona 1: Michelle Stewart
 > Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
 
-![Persona1](../img_repo/MT.IMG.05.1.png){:width="500" height="250" loading="lazy"}
+![Persona1](../img_repo/MT.IMG.05.1.png){:width="700" height="350" loading="lazy"}
 
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
 
-![Persona2](../img_repo/MT.IMG.05.2.png){:width="500" height="250" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.05.2.png){:width="700" height="350" loading="lazy"}
+
+### Sitemap
+I created a Sitemap which is a diagram of a Website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. I limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
+![Persona2](../img_repo/MT.IMG.06.png){:width="700" height="350" loading="lazy"}
+
+### Ideation
+For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way to get ideas flowing for any design problem you need to solve. With Crazy Eights, you’ll sketch eight different designs, each with a new idea for solving the user’s problem. The best part? It only takes eight minutes!
+![Persona2](../img_repo/WhatsApp Image 2023-04-13 at 14.13.44.jpeg){:width="700" height="350" loading="lazy"}
 
 ### Competitive audit
 My goal in this competitive audit was to identify my key competitors and review the products my competitors offer. I looked at their visual layout and navigation, what resources they offer and their accessibility features. I also assessed what the competitors did well and what are the areas of improvement that I can incorporate in my products.
