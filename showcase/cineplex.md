@@ -32,7 +32,7 @@ Busy workers lack the time to book themselves or their friends and family, the t
 ### The Goal
 Streamline the process of booking tickets to save as much time and energy as possible and without any hustle!
 ### Tools Used
-![This is an image](../img_repo/CP.IMG.03.png){:width="400" height="200" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.03.png){:width="600" height="300" loading="lazy"}
 
 ## Design Process
 I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to ‘problem-solving’ that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
@@ -40,21 +40,22 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 
 ## Understanding The User
 ### User Research 
-I initiated my research by posing a series of questions to diverse individuals to comprehend their challenges and requirements when reserving a movie seat. The objective of this investigation was twofold: to obtain a deeper comprehension of people and their necessities and to prioritize them in my design approach and final product.
+* I initiated my research by posing a series of questions to diverse individuals to comprehend their challenges and requirements when reserving a movie seat. The objective of this investigation was twofold: to obtain a deeper comprehension of people and their necessities and to prioritize them in my design approach and final product.
 
-I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. 
+* I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. 
 
-Through my research, I identified the user group as all individuals who don’t have time to personally visit movie theatres to book movie tickets or are busy and want to book tickets quickly without any hustle.
+* Through my research, I identified the user group as all individuals who don’t have time to personally visit movie theatres to book movie tickets or are busy and want to book tickets quickly without any hustle.
 
-I conducted an unmoderated user reasearch with 5 participants on remote basis.
+* I conducted an unmoderated user reasearch with 5 participants on remote basis.
 
-![This is an image](../img_repo/cs2_img2_pain_points.png){:width="500" height="250" loading="lazy"}
+### User Painpoints
+![This is an image](../img_repo/CP.IMG.07.png){:width="500" height="250" loading="lazy"}
 
-#### Persona : Sydney
-Problem Statement : Sydney is a busy fashion designer who need to make sure that she can easily book her favourite seat for a movie online at anytime because she loves
-to watch movies but is super busy for 6 days a week and spends more than 9 hours daily at her boutique attending clients or designing new dresses.
-![This is an image](../img_repo/cs2_img3_persona.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs2_img4_user_journey_map.png){:width="500" height="250" loading="lazy"}
+### Persona
+Based on my analysis from the research I carried out, I was able to identify two personas 
+that represent a diverse group of users. Also, I was able to comprehend what their
+frustrations are and what their needs might be.
+![This is an image](../img_repo/CP.IMG.08.png){:width="1000" height="750" loading="lazy"}
 
 ### The Design
 #### Sitemap
