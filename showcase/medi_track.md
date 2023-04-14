@@ -55,18 +55,15 @@ I created a Sitemap which is a diagram of a Website, that shows how pages are pr
 
 ### Ideation
 For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way to get ideas flowing for any design problem you need to solve. With Crazy Eights, you’ll sketch eight different designs, each with a new idea for solving the user’s problem. The best part? It only takes eight minutes!
+
 ![Persona2](../img_repo/WhatsApp Image 2023-04-13 at 14.13.44.jpeg){:width="700" height="350" loading="lazy"}
 
-### Competitive audit
-My goal in this competitive audit was to identify my key competitors and review the products my competitors offer. I looked at their visual layout and navigation, what resources they offer and their accessibility features. I also assessed what the competitors did well and what are the areas of improvement that I can incorporate in my products.
-
-![Audit](../img_repo/cs3_img5_competitive_audit.png){:width="600" height="400" loading="lazy"}
-
-### Ideation
-I used a crazy 8s method of ideation to come up with design ideas that meet the goals of the users. My main aim was to design multiple ideas that gives ideas for users goals like setting up a new reminder, snoozing a reminder, selection of day, date and time for medicines, adding a medicine list and history,etc.
-![ideation](../img_repo/cs3_img6_ideation.png){:width="600" height="400" loading="lazy"}
- 
-## Starting the Design
+![Persona2](../img_repo/MT.IMG.08.png){:width="700" height="350" loading="lazy"}
+During the initial design phase, I focused on developing digital wireframes based on user research, feedback and findings. Specifically, I prioritized creating wireframes for the mobile version of the website.
+Additionally, I performed a usability study to identify any pain points that users may have experienced with my design. Based on the results, I iterated on the designs to address these issues.
+![Persona2](../img_repo/MT.IMG.09.1.png){:width="700" height="350" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.09.2.png){:width="700" height="350" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.09.3.png){:width="700" height="350" loading="lazy"}
 ### Digital Wireframes
 As the design continued, I made sure to base screen designs on the findings from the user rsearch.
 ![wireframe](../img_repo/cs3_img7.png){:width="600" height="400" loading="lazy"}
