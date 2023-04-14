@@ -86,32 +86,29 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 ##### Low-Fidelity Prototyping
 You can view my Low-fidelity Prototypes if you visit [this link](https://xd.adobe.com/view/002b3d7b-019c-41c8-aa6a-2443ab2a8a6d-5578/screen/06a8b176-7981-4f82-ae47-1436f85d71b7/?fullscreen)
 
+### Usability Study
+After prototyping the Low-Fidelity Wireframes, I conducted ‘Usability Study’ where I asked users to perform certain tasks to know how the users interacted with my Design. The first study helped me guide the Designs froms ‘Wireframes’ to ‘Mockups’.
+![This is an image](../img_repo/CP.IMG.16.png){:width="600" height="350" loading="lazy"}
 
-#### Usability Study Parameters
-![This is an image](../img_repo/cs2_img10_studyparameters.png){:width="500" height="250" loading="lazy"}
-#### Usability Study Findings
-![This is an image](../img_repo/cs2_img11_studyfindings.png){:width="500" height="250" loading="lazy"}
+### Design Iterations
+![This is an image](../img_repo/CP.IMG.17.png){:width="800" height="450" loading="lazy"}
 
-### Refining The Design
-![This is an image](../img_repo/cs2_img15_refinedmockups.png){:width="500" height="250" loading="lazy"}
+### High-Fidelity Mockups 
+![This is an image](../img_repo/CP.IMG.18.1.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.18.2.png){:width="800" height="400" loading="lazy"}
 
-#### High-Fidelity Mockups and Prototypes
-Using the completed set of low-fidelity prototypes, I created a high-fidelity mockup and prototype.
-![This is an image](../img_repo/cs2_img13_hifimockups.png){:width="400" height="200" loading="lazy"}
-#### Mockups (Original Screen Size)
-![This is an image](../img_repo/cs2_img12_mockups.png){:width="700" height="350" loading="lazy"}
-
-##### High-Fidelity Prototyping
+### High-Fidelity Prototyping
 You can find my high-fidelity prototypes if you visit [this link](https://xd.adobe.com/view/abd51dc7-1adf-429e-9174-79616b984f95-fe86/?fullscreen)
 
-![This is an image](../img_repo/cs2_img14_accessibility.png){:width="500" height="250" loading="lazy"}
+## Accessibiliy Considerations
+![This is an image](../img_repo/CP.IMG.19.png){:width="500" height="250" loading="lazy"}
 
-#### Going Forward
-#### Takeaways
-**Impact:** The feedback I have gotten from the final prototype is positive. My second usability study showed that the design of this app meets the user’s needs.
+### Takeaways
+**Impact:** The final prototype has received positive feedback, and the usability study indicates that the app's design is capable of meeting the user's needs.
 
-**One quote from peer feedback:** *“Looks good for a high-fi. Keep up the good work!.”*
+**One quote from peer feedback:** *“Looks good for a Hi-Fi! Keep up the good work.”*
 #### What I learned
-In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and usability studies, I was able to iterate a comprehensive and inclusive design. 
-#### Next Steps
-![This is an image](../img_repo/cs1_img14_next_steps.png){:width="600" height="300" loading="lazy"}
+During the project's design process, I obtained valuable insights into the pivotal role that user research plays in UX. By meticulously analyzing the feedback obtained through user interviews, peer reviews, and usability studies, I could progressively develop a comprehensive and inclusive design. 
+
+## Next Steps
+![This is an image](../img_repo/CP.IMG.21.png){:width="600" height="300" loading="lazy"}
