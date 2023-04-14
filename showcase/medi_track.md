@@ -75,21 +75,37 @@ I created a ‘User Journey Map’, which is an illustration of what the user go
 ![Persona2](../img_repo/MT.IMG.10.png){:width="700" height="350" loading="lazy"}
 
 ### Digital Wireframes
-As the design continued, I made sure to base screen designs on the findings from the user rsearch.
-![wireframe](../img_repo/cs3_img7.png){:width="600" height="400" loading="lazy"}
+
+![wireframe](../img_repo/MT.IMG.11.png){:width="600" height="400" loading="lazy"}
+
+![wireframe](../img_repo/MT.IMG.12.png){:width="600" height="400" loading="lazy"}
+
+![wireframe](../img_repo/MT.IMG.13.png){:width="600" height="400" loading="lazy"}
 
 ### Low-fidelity prototypes
-The links to low-fidelity prototypes that I have designed can be found below - 
+Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main user flow I established involved selecting a date to add a new reminder and then receiving a confirmation prompt once the reminder was successfully set, so the Prototype could be used in an Usability Study.
+
+![wireframe](../img_repo/WM.IMG.14.png){:width="600" height="400" loading="lazy"}
+
+The links to Lo-Fi Prototypes that I have designed can be found below-
 
 * Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=48%3A719&scaling=scale-down&page-id=47%3A277&starting-point-node-id=48%3A719&show-proto-sidebar=1))
 
-![lofi_mobile](../img_repo/cs3_img8_mobileversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
 * Tablet Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=99%3A873&scaling=min-zoom&page-id=99%3A2&starting-point-node-id=99%3A873))
 
-![lofi_tablet](../img_repo/cs3_img9_tabletversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
-* Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=63%3A734&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=63%3))
+* Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=63%3A734&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=63%3A734))
 
-![lofi_desktop](../img_repo/cs3_img10_desktopversion_lofi_prototype.png){:width="600" height="400" loading="lazy"}
+![wireframe](../img_repo/WM.IMG.15.png){:width="600" height="400" loading="lazy"}
+
+
+![wireframe](../img_repo/WM.IMG.16.png){:width="600" height="400" loading="lazy"}
+
+
+![wireframe](../img_repo/WM.IMG.17.png){:width="600" height="400" loading="lazy"}
+
+
+![wireframe](../img_repo/WM.IMG.18.png){:width="600" height="400" loading="lazy"}
+
 
 ### Usability Study: Parameters
 ![usability_parameters](../img_repo/cs3_img11_usability_study_parameters.png){:width="600" height="400" loading="lazy"}
