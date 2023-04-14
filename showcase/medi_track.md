@@ -12,7 +12,11 @@ hide_last_modified: true
 
 This is a Cross-platform Tool as a Responsive Website that has been designed to help users keep track of their Medication. It is targeted towards the elderly and people with very busy schedules as they tend to forget taking their prescribed Medication at the right time.
 
+
+
 > Project Duration: February 2023 to March 2023
+
+
 
 ![MT_mockup1](../img_repo/MT.IMG.Title Image.png){:width="600" height="300" loading="lazy"}
 
@@ -38,9 +42,11 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 ### Personas
 #### Persona 1: Michelle Stewart
 > Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
+
 ![Persona1](../img_repo/MT.IMG.05.1.png){:width="700" height="350" loading="lazy"}
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
+
 ![Persona2](../img_repo/MT.IMG.05.2.png){:width="700" height="350" loading="lazy"}
 
 ## Sitemap
@@ -49,7 +55,10 @@ I created a Sitemap which is a diagram of a Website, that shows how pages are pr
 
 ## Ideation
 For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way to get ideas flowing for any design problem you need to solve. With Crazy Eights, you’ll sketch eight different designs, each with a new idea for solving the user’s problem. The best part? It only takes eight minutes!
+
+
 ![Persona2](../img_repo/WhatsApp Image 2023-04-13 at 14.13.44.jpeg){:width="700" height="350" loading="lazy"}
+
 
 ![Persona2](../img_repo/MT.IMG.08.png){:width="700" height="350" loading="lazy"}
 
@@ -80,6 +89,7 @@ The links to Lo-Fi Prototypes that I have designed can be found below-
 * Tablet Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=99%3A873&scaling=min-zoom&page-id=99%3A2&starting-point-node-id=99%3A873))
 
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=63%3A734&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=63%3A734))
+
 
 ![wireframe](../img_repo/MT.IMG.15.png){:width="600" height="400" loading="lazy"}
 
