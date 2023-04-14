@@ -51,29 +51,42 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 ### User Painpoints
 ![This is an image](../img_repo/CP.IMG.07.png){:width="500" height="250" loading="lazy"}
 
-## Persona
+### Persona
 Based on my analysis from the research I carried out, I was able to identify two personas 
 that represent a diverse group of users. Also, I was able to comprehend what their
 frustrations are and what their needs might be.
 ![This is an image](../img_repo/CP.IMG.08.png){:width="1000" height="750" loading="lazy"}
 
-### The Design
-#### Sitemap
-Sitemap is a diagram of a website or application, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. During the construction of this sitemap, the results of the user testing were implemented for easy user flow. I also limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
-![This is an image](../img_repo/cs2_img5_sitemap.png){:width="500" height="250" loading="lazy"}
+### User Journey Map
+I created a User Journey Map which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
+![This is an image](../img_repo/CP.IMG.09.png){:width="1000" height="750" loading="lazy"}
 
-#### Paper Wireframes
-Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to digital wireframes would be well-suited to address user pain points. 
-![This is an image](../img_repo/cs2_img6_paperwireframes.png){:width="600" height="300" loading="lazy"}
-#### Digital Wireframes
-As the initial design phase continued, I made sure to base screen designs on feedback and findings from  the user research.
-![This is an image](../img_repo/cs2_img7_digitalwireframes1.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs2_img8_digitalwireframes2.png){:width="500" height="250" loading="lazy"}
-#### Low-Fidelity Prototypes
-Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was right from loggin in to a user account to searching and setting loaction for easy theatre search to booking the ticket successfully.
-![This is an image](../img_repo/cs2_img9_lofi_prototype.png){:width="700" height="350" loading="lazy"}
+
+### Sitemap
+I created a Sitemap, which is a diagram of a website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. During the construction of this sitemap, the results of the user testing were implemented for easy user flow. I also limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
+![This is an image](../img_repo/CP.IMG.10.png){:width="700" height="350" loading="lazy"}
+
+![This is an image](../img_repo/CP.IMG.11.png){:width="700" height="350" loading="lazy"}
+
+### Paper Wireframes
+* I proceeded to sketch Wireframes. 
+* I started with Paper Wireframes for the main interfaces that show a complete User Flow. The main goal in this stage was to create easy and quick iterations of the Design for a simple User Flow. 
+* Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
+![This is an image](../img_repo/CP.IMG.12.png){:width="700" height="350" loading="lazy"}
+
+### Digital Wireframes
+As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the user research and created Digital Wireframes making sure all the app features are iterated.
+![This is an image](../img_repo/CP.IMG.13.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.14.png){:width="800" height="400" loading="lazy"}
+
+### Low-Fidelity Prototypes
+Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main user journey that I observed involved first selecting a movie, then choosing a seat, making a payment, and finally receiving a confirmation message for the ticket.
+![This is an image](../img_repo/CP.IMG.15.png){:width="700" height="350" loading="lazy"}
+
 ##### Low-Fidelity Prototyping
-You can find my low-fidelity prototypes if you visit [this link](https://xd.adobe.com/view/002b3d7b-019c-41c8-aa6a-2443ab2a8a6d-5578/screen/06a8b176-7981-4f82-ae47-1436f85d71b7?fullscreen)
+You can view my Low-fidelity Prototypes if you visit [this link](https://xd.adobe.com/view/002b3d7b-019c-41c8-aa6a-2443ab2a8a6d-5578/screen/06a8b176-7981-4f82-ae47-1436f85d71b7/?fullscreen)
+
+
 #### Usability Study Parameters
 ![This is an image](../img_repo/cs2_img10_studyparameters.png){:width="500" height="250" loading="lazy"}
 #### Usability Study Findings
