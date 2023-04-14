@@ -24,11 +24,11 @@ Lead UX Designer, UX Researcher
 ### Responsibilities
 User Research, Interviews, Usability Studies, Ideation, Wireframing, Mockups, Prototyping (Lo-Fi + Hi-Fi) and Testing
 ### Tools Used
-![MT_mockup1](../img_repo/MT.IMG.02.1.png){:width="600" height="300" loading="lazy"}
+![MT_mockup1](../img_repo/MT.IMG.02.1.png){:width="400" height="200" loading="lazy"}
 
 ## Design Process
 I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
-![MT_mockup1](../img_repo/MT.IMG.04.1.png){:width="600" height="300" loading="lazy"}
+![Design Thinking Framework](../img_repo/MT.IMG.04.1.png){:width="600" height="300" loading="lazy"}
 ### Dedicated Mobile App
 ![MT_mockup1](../img_repo/iPhone 13 Pro.png){:width="400" height="258" loading="lazy"}
 
@@ -36,19 +36,18 @@ Mockup of the mobile app
 {:.figcaption}
 
 ## Understanding the User
-### User Research Summary
-My research began with a series of inquiries directed at a variety of people in order to have a better understanding of their issues and demands in remembering their routines. The purpose of this study was to gain a better understanding of individuals and their needs, as well as to put them at the center of my design process, and
-product. I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront.
+### User Research
+I initiated my research by posing a series of inquiries to a diverse group of individuals to gain a deeper comprehension of their challenges and requirements when it comes to remembering their daily routines. The objective of this study was to gain insights into the individuals and their needs, and to prioritize them throughout the product design process. I gathered information by conducting one-on-one interviews to obtain a better understanding of the people and the challenges they encounter.
 ### Personas
 #### Persona 1: Michelle Stewart
 > Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
 
-![Persona2](../img_repo/cs3_img4_persona2.png){:width="600" height="400" loading="lazy"}
+![Persona1](../img_repo/MT.IMG.05.1.png){:width="500" height="250" loading="lazy"}
 
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
 
-![Persona1](../img_repo/cs3_img3_persona1.png){:width="600" height="400" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.05.2.png){:width="500" height="250" loading="lazy"}
 
 ### Competitive audit
 My goal in this competitive audit was to identify my key competitors and review the products my competitors offer. I looked at their visual layout and navigation, what resources they offer and their accessibility features. I also assessed what the competitors did well and what are the areas of improvement that I can incorporate in my products.
