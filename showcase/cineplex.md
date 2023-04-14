@@ -51,7 +51,7 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 ### User Painpoints
 ![This is an image](../img_repo/CP.IMG.07.png){:width="500" height="250" loading="lazy"}
 
-### Persona
+## Persona
 Based on my analysis from the research I carried out, I was able to identify two personas 
 that represent a diverse group of users. Also, I was able to comprehend what their
 frustrations are and what their needs might be.
