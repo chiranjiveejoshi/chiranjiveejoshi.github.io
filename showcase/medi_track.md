@@ -82,11 +82,12 @@ I created a ‘User Journey Map’, which is an illustration of what the user go
 
 ![wireframe](../img_repo/MT.IMG.13.png){:width="600" height="400" loading="lazy"}
 
-### Low-fidelity prototypes
+### Low-fidelity Prototypes
 Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main user flow I established involved selecting a date to add a new reminder and then receiving a confirmation prompt once the reminder was successfully set, so the Prototype could be used in an Usability Study.
 
 ![wireframe](../img_repo/WM.IMG.14.png){:width="600" height="400" loading="lazy"}
 
+#### Low-fidelity Prototypes
 The links to Lo-Fi Prototypes that I have designed can be found below-
 
 * Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=48%3A719&scaling=scale-down&page-id=47%3A277&starting-point-node-id=48%3A719&show-proto-sidebar=1))
@@ -107,58 +108,33 @@ The links to Lo-Fi Prototypes that I have designed can be found below-
 ![wireframe](../img_repo/MT.IMG.18.png){:width="600" height="400" loading="lazy"}
 
 
-### Usability Study: Parameters
-![usability_parameters](../img_repo/cs3_img11_usability_study_parameters.png){:width="600" height="400" loading="lazy"}
-### Usability Study: Findings
-These were the main findings that the usability study revealed
-![usability_findings](../img_repo/cs3_img12_usability_study_findings.png){:width="600" height="400" loading="lazy"}
-
-## Refining the design
-### Mockups
-Users were finding it difficult to select the date while setting erminders and hence preferred a full block calendar where dates and days are aligned to each other and easy to peruse.
-![mockup1](../img_repo/cs3_img13_mockup_before_after.png){:width="600" height="400" loading="lazy"}
-
-Users wanted an option to snooze reminders so that it won't be misseed out until the medicne is finally taken. An option to delete the reminder was also added.
-![mockup2](../img_repo/cs3_img14_mockup_before_after.png){:width="600" height="400" loading="lazy"}
-
-![mobile_mockup](../img_repo/cs3_img15_mobile_mockup.png){:width="600" height="400" loading="lazy"}
-![tablet_mockup](../img_repo/cs3_img16_tablet_mockup.png){:width="600" height="400" loading="lazy"}
-![desktop_mockup1](../img_repo/cs3_img17_desktop1_mockup.png){:width="600" height="400" loading="lazy"}
-![desktop_mockup2](../img_repo/cs3_img18_desktop2_mockup.png){:width="600" height="400" loading="lazy"}
-
-### High-fidelity prototypes
-The links to low-fidelity prototypes that I have designed can be found below - 
-
+#### High-fidelity Prototypes
+The links to Hi-Fi Prototypes that I have designed can be found below-
 * Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=49%3A2174&scaling=scale-down&page-id=49%3A2172))
 * Tablet Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=105%3A2765&scaling=min-zoom&page-id=105%3A2764))
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565))
 
-The final prototype features many of the same design elements and flow as the lo-fi prototype, but several more were added after the usability study.
-![desktop_hifi](../img_repo/cs3_img19_desktop_hifi_prototype.png){:width="600" height="400" loading="lazy"}
+### Accesibility Considerations
+![accessibility](../img_repo/WM.IMG.19.png){:width="600" height="400" loading="lazy"}
 
-### Accesibility considerations
-![accessibility](../img_repo/cs3_img23_accesibility.PNG){:width="600" height="400" loading="lazy"}
-
-## Responsive Design
-### Sitemap
-Sitemap is a diagram of a website or application, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. During the construction of this sitemap, the results of the user testing were implemented for easy user flow. I also limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
-![sitemap](../img_repo/cs3_img21_sitemap.png){:width="600" height="400" loading="lazy"}
-
-
-### Responsive Designs
-The research and decisions I made when designing this project are all based on real users who gave me a lot of insights to implement the usability and functionality of the product to achieve it’s ultimate goal of not missing to take a single medicine and to take it at the prescribed time.
 
 ## Going Forward
 ### Takeaways
 #### Impact
-The feedback I have received from the final prototype is positive. My second usability study showed that the design of this app and it’s responsive website versions meets the user’s needs.
+Based on the feedback I received from the final prototype, it appears that the app's design is meeting the users' needs. The results of my second usability study were positive.
 
 One quote from the peer feedback:
-> "That's a pretty good and clear cut prototype"
+> "Beautiful Design and easy User Flow"
 
 #### What I learned
-In designing this project, I learned that user research plays an invaluable role in the UX process. Based on the influence of the user interviews, peer reviews and
-usability studies, I was able to iterate a comprehensive and inclusive design.
+Through the process of designing this project, I gained a deeper appreciation for the importance of user research in the UX process. By incorporating insights from user interviews, peer reviews, and usability studies, I was able to iteratively develop a comprehensive and inclusive design.
 
-![takeaway](../img_repo/cs3_img22_takeaways.PNG){:width="600" height="400" loading="lazy"}
 
+## NextSteps
+![accessibility](../img_repo/WM.IMG.21.png){:width="600" height="400" loading="lazy"}
+
+
+![accessibility](../img_repo/iPhone 13 Pro.png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/iPad Mini.png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/Monitor XDR-1.png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/Monitor XDR.png){:width="600" height="400" loading="lazy"}
