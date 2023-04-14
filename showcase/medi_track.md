@@ -56,14 +56,24 @@ I created a Sitemap which is a diagram of a Website, that shows how pages are pr
 ### Ideation
 For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way to get ideas flowing for any design problem you need to solve. With Crazy Eights, you’ll sketch eight different designs, each with a new idea for solving the user’s problem. The best part? It only takes eight minutes!
 
+
 ![Persona2](../img_repo/WhatsApp Image 2023-04-13 at 14.13.44.jpeg){:width="700" height="350" loading="lazy"}
 
+
 ![Persona2](../img_repo/MT.IMG.08.png){:width="700" height="350" loading="lazy"}
+
 During the initial design phase, I focused on developing digital wireframes based on user research, feedback and findings. Specifically, I prioritized creating wireframes for the mobile version of the website.
+
 Additionally, I performed a usability study to identify any pain points that users may have experienced with my design. Based on the results, I iterated on the designs to address these issues.
 ![Persona2](../img_repo/MT.IMG.09.1.png){:width="700" height="350" loading="lazy"}
 ![Persona2](../img_repo/MT.IMG.09.2.png){:width="700" height="350" loading="lazy"}
 ![Persona2](../img_repo/MT.IMG.09.3.png){:width="700" height="350" loading="lazy"}
+
+### Affinity Diagram
+I created a ‘User Journey Map’, which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
+
+![Persona2](../img_repo/MT.IMG.10.png){:width="700" height="350" loading="lazy"}
+
 ### Digital Wireframes
 As the design continued, I made sure to base screen designs on the findings from the user rsearch.
 ![wireframe](../img_repo/cs3_img7.png){:width="600" height="400" loading="lazy"}
