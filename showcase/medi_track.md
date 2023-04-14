@@ -69,7 +69,7 @@ Additionally, I performed a usability study to identify any pain points that use
 ![Persona2](../img_repo/MT.IMG.09.2.png){:width="700" height="350" loading="lazy"}
 ![Persona2](../img_repo/MT.IMG.09.3.png){:width="700" height="350" loading="lazy"}
 
-### Affinity Diagram
+### Affinity Diagram 
 I created a ‘User Journey Map’, which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
 
 ![Persona2](../img_repo/MT.IMG.10.png){:width="700" height="350" loading="lazy"}
