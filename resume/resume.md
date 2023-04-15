@@ -70,7 +70,7 @@ Diet/Meal Planning | Nutritional Counselling | Functional Foods & Dietary Supple
 *by K11 Academy of Fitness Science, Mumbai*
 
 ## **OTHER ACHIEVEMENTS**
-* **Master's Thesis**
+* **Master's Thesis-**
 Nutritional Status Assessment of Adults (20-50 years) exercising High Intensity Functional Training (HIFT) and studying the impact of HIFT on the Body Composition and Physical Fitness, Mumbai; *Year- June 2019 –  May 2020, Guide- Dr. Neha Joshi*
 
 * Secured First Position in M.Sc. Sports Nutrition, Semester IV, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
