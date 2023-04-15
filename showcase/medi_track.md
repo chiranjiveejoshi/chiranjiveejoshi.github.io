@@ -2,7 +2,7 @@
 layout: page
 title: Medi Track 
 description: >
-  A Medication Reminder Tool
+  **A Medication Reminder Tool**
 sitemap: false
 hide_last_modified: true
 ---
