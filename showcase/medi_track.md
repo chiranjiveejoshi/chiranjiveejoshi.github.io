@@ -17,22 +17,22 @@ This is a Cross-platform Tool as a Responsive Website that has been designed to 
 ![MT_mockup1](../img_repo/MT.IMG.Title Image.png){:width="600" height="300" loading="lazy"}
 
 ## PROJECT OVERVIEW
-## My Role
+### My Role
 Lead UX Designer, UX Researcher
-## My Responsibilities
+### My Responsibilities
 User Research, Interviews, Usability Studies, Ideation, Wireframing, Mockups, Prototyping (Lo-Fi + Hi-Fi) and Testing
-## The Problem
+### The Problem
 People often forget to take their medications at the correct time. This is especially true for senior citizens and people with extremely hectic lives.
-## The Goal
+### The Goal
 My goal is to design a simple tool that can help improve a person’s quality of life by keeping track of medications and reminding the users at the appropriate time.
-## Tools Used
+### Tools Used
 
 ![MT_mockup1](../img_repo/MT.IMG.02.1.png){:width="400" height="200" loading="lazy"}
 
 ## DESIGN PROCESS
 I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
 
-![Design Thinking Framework](../img_repo/MT.IMG.04.1.png){:width="1000" height="500" loading="lazy"}
+![Design Thinking Framework](../img_repo/MT.IMG.04.1.png){:width="1200" height="600" loading="lazy"}
 
 ## UNDERSTANDING THE USER
 ### User Research
