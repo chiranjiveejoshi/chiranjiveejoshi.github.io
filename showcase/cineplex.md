@@ -33,7 +33,7 @@ Busy workers lack the time to book themselves or their friends and family, the t
 Streamline the process of booking tickets to save as much time and energy as possible and without any hustle!
 ### Tools Used
 
-![This is an image](../img_repo/CP.IMG.03.png){:width="600" height="300" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.03.png){:width="800" height="400" loading="lazy"}
 
 ## DESIGN PROCESS
 * I followed the ‘Design Thinking Framework’ for this project. 
@@ -62,12 +62,17 @@ Streamline the process of booking tickets to save as much time and energy as pos
 ![This is an image](../img_repo/CP.IMG.08.png){:width="1000" height="750" loading="lazy"}
 
 ### User Journey Map
-I created a User Journey Map which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
+* I created a User Journey Map which is an illustration of what the user goes through to achieve their goals. 
+* It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
 
 ![This is an image](../img_repo/CP.IMG.09.png){:width="1000" height="750" loading="lazy"}
 
 ## SITEMAP
-I created a Sitemap, which is a diagram of a website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. During the construction of this sitemap, the results of the user testing were implemented for easy user flow. I also limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
+* I created a Sitemap, which is a diagram of a website, that shows how pages are prioritized, linked, and labeled. 
+* It helps to understand how to access any useful information quickly and easily. 
+* During the construction of this sitemap, the results of the user testing were implemented for easy user flow. 
+* I also limited the level of details to minimum to avoid confusion and complexity. 
+* The main goal was to make sure that each area has all the necessary information for a user to operate this product.
 
 ![This is an image](../img_repo/CP.IMG.10.png){:width="700" height="350" loading="lazy"}
 
@@ -101,13 +106,14 @@ You can view my Low-fidelity Prototypes if you visit [this link](https://xd.adob
 * After prototyping the Low-Fidelity Wireframes, I conducted ‘Usability Study’ where I asked users to perform certain tasks to know how the users interacted with my Design. 
 * The first study helped me guide the Designs froms ‘Wireframes’ to ‘Mockups’.
 
-![This is an image](../img_repo/CP.IMG.16.png){:width="400" height="200" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.16.png){:width="200" height="100" loading="lazy"}
 
 ## DESIGN ITERATIONS
 ![This is an image](../img_repo/CP.IMG.17.png){:width="800" height="450" loading="lazy"}
 
 ### High-Fidelity Mockups 
 ![This is an image](../img_repo/CP.IMG.18.1.png){:width="800" height="400" loading="lazy"}
+
 ![This is an image](../img_repo/CP.IMG.18.2.png){:width="800" height="400" loading="lazy"}
 
 #### High-Fidelity Prototyping
