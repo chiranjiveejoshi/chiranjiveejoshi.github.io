@@ -15,7 +15,7 @@ You can find my Portfolio if you visit
 ## **EDUCATION**
 ### Google UX Design Certificate 
 **// 04th September 2022 – 03rd March 2023, Coursera (Online);**
-*Completed a rigorous training designed for entry-level job readiness. 15 modules included topics like: UX research fundamentals, inclusive design, low-fidelity and high-fidelity prototypes, and tools like Figma and Adobe XD. Completed hands-on projects and developed a portfolio including 3 projects to receive the certificate.* 
+*Completed a rigorous training designed for entry-level job readiness. 15 modules included topics like: UX research fundamentals, inclusive design, low-fidelity and high-fidelity prototypes, and tools like Figma and Adobe XD. Completed hands-on projects and developed a Portfolio including 3 projects to receive the certificate.* 
 ### Gerogia Institute of Technology- Introduction to User Experience Design
 **// 4th July 2022 – 9th August 2022, Coursera (Online);**
 *Discovery of UX design, the definitions, basic concepts and differences between terms, four-step User Interface Design Cycle, techniques that are relevant for understanding the user and tasks, a set of techniques to gather information about user.* 
@@ -30,7 +30,7 @@ You can find my Portfolio if you visit
 ### Technical
 Figma | Adobe XD | Google Slides | MS Office
 ### Design
-Wireframing | Mockups | Prototyping (Lo-Fi + Hi-Fi) | Drawing | Typography | Visual Design | Responsive Design | Information Architecture | Storyboarding | User Research | Usability studies
+Wireframing | Mockups | Prototyping (Lo-Fi + Hi-Fi) | Drawing | Typography | Visual Design | Responsive Design | Information Architecture | Storyboarding | User Research | Usability Studies
 ### Collaboration
 Design Critique + Feedback | Strong Presenter | Confident, Proactive & Enthusiastic
 ### Nutrition
@@ -70,12 +70,12 @@ Diet/Meal Planning | Nutritional Counselling | Functional Foods & Dietary Supple
 *by K11 Academy of Fitness Science, Mumbai*
 
 ## **OTHER ACHIEVEMENTS**
-Secured First Position in M.Sc. Sports Nutrition, Semester IV, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
+* Secured First Position in M.Sc. Sports Nutrition, Semester IV, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
 
-Volunteered at Health Mela, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
+* Volunteered at Health Mela, College of Home Science, Nirmala Niketan, University of Mumbai (2020)
 
-Adventure Course by Himalayan Mountaineering Institute, Darjeeling (West Bengal), India (2016)
+* Adventure Course by Himalayan Mountaineering Institute, Darjeeling, West Bengal, India (2016)
 
-Volunteered at Indian Dietetic Association, Mumbai Chapter (2016)
+* Volunteered at Indian Dietetic Association, Mumbai Chapter (2016)
 
-Was an active member of National Service Scheme (NSS) Committee in College (S.V.T. College of Home Science) (2016)
+* Was an active member of National Service Scheme (NSS) Committee in College (S.V.T. College of Home Science) (2016)
