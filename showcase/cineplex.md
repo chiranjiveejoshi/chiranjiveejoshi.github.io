@@ -17,9 +17,9 @@ CinePlex is a Website where you can purchase Movie Tickets. It facilitates quick
 ![This is an image](../img_repo/CP.IMG.Title Page.png){:width="600" height="300" loading="lazy"}
 
 ## Project Overview
-### My Role
+### **My Role**
 Lead UX Designer, UX Researcher
-### My Responsibilities
+### **My Responsibilities**
 **User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)**
 * To design a seat reservation flow for a movie 
 * Ideate and design app and website screens
@@ -27,11 +27,11 @@ Lead UX Designer, UX Researcher
 * Ensure that the designs are interactive and provide a good user flow, user journey and a user experience
 * Conduct test and research
 * Re-iterate on designs
-### The Problem
+### **The Problem**
 Busy workers lack the time to book themselves or their friends and family, the tickets to the movies.
-### The Goal
+### **The Goal**
 Streamline the process of booking tickets to save as much time and energy as possible and without any hustle!
-### Tools Used
+### **Tools Used**
 ![This is an image](../img_repo/CP.IMG.03.png){:width="600" height="300" loading="lazy"}
 
 ## Design Process
@@ -72,25 +72,25 @@ I created a Sitemap, which is a diagram of a website, that shows how pages are p
 
 ## The Design
 
-## Paper Wireframes
+### Paper Wireframes
 * I proceeded to sketch Wireframes. 
 * I started with Paper Wireframes for the main interfaces that show a complete User Flow. The main goal in this stage was to create easy and quick iterations of the Design for a simple User Flow. 
 * Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
 * 
 ![This is an image](../img_repo/CP.IMG.12.png){:width="700" height="350" loading="lazy"}
 
-## Digital Wireframes
+### Digital Wireframes
 As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the user research and created Digital Wireframes making sure all the app features are iterated.
 
 ![This is an image](../img_repo/CP.IMG.13.png){:width="800" height="400" loading="lazy"}
 ![This is an image](../img_repo/CP.IMG.14.png){:width="800" height="400" loading="lazy"}
 
-## Low-Fidelity Prototypes
+### Low-Fidelity Prototypes
 Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main user journey that I observed involved first selecting a movie, then choosing a seat, making a payment, and finally receiving a confirmation message for the ticket.
 
 ![This is an image](../img_repo/CP.IMG.15.png){:width="700" height="350" loading="lazy"}
 
-### Low-Fidelity Prototyping
+#### Low-Fidelity Prototyping
 You can view my Low-fidelity Prototypes if you visit [this link](https://xd.adobe.com/view/002b3d7b-019c-41c8-aa6a-2443ab2a8a6d-5578/screen/06a8b176-7981-4f82-ae47-1436f85d71b7/?fullscreen)
 
 ## Usability Study
@@ -101,11 +101,11 @@ After prototyping the Low-Fidelity Wireframes, I conducted ‘Usability Study’
 ## Design Iterations
 ![This is an image](../img_repo/CP.IMG.17.png){:width="800" height="450" loading="lazy"}
 
-## High-Fidelity Mockups 
+### High-Fidelity Mockups 
 ![This is an image](../img_repo/CP.IMG.18.1.png){:width="800" height="400" loading="lazy"}
 ![This is an image](../img_repo/CP.IMG.18.2.png){:width="800" height="400" loading="lazy"}
 
-### High-Fidelity Prototyping
+#### High-Fidelity Prototyping
 You can find my high-fidelity prototypes if you visit [this link](https://xd.adobe.com/view/abd51dc7-1adf-429e-9174-79616b984f95-fe86/?fullscreen)
 
 ## Accessibiliy Considerations
