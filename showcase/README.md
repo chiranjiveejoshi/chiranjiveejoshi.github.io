@@ -8,7 +8,7 @@ sitemap: false
 permalink: /showcase/
 ---
 
-Here you will find three selected case-studies to showcase my work as a UX designer.
+Here you will find three selected case studies to showcase my work as a UX designer.
 
 ## Selected Case Studies
 * [Wedding Mantra]{:.heading.flip-title} --- A Ceremony Checklist App for a Trendy Wedding
