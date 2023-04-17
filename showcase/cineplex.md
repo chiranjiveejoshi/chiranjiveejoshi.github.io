@@ -21,12 +21,13 @@ CinePlex is a Website where you can purchase Movie Tickets. It facilitates quick
 Lead UX Designer, UX Researcher
 ### My Responsibilities
 **User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)**
-* To design a seat reservation flow for a movie 
-* Ideate and design app and website screens
-* Test designs
-* Ensure that the designs are interactive and provide a good user flow, user journey and a user experience
-* Conduct test and research
-* Re-iterate on designs
+* To design a Seat Reservation Flow for a Movie Theatre
+* To conduct Usability Study
+* To Ideate and Design Web Screens
+* To Test the Designs
+* To ensure that the Designs are Interactive and provide a good User Flow, User Journey and an User Experience
+* To conduct Test and Research
+* To iterate on Designs based on test feedback
 ### The Problem
 Busy workers lack the time to book themselves or their friends and family, the tickets to the movies.
 ### The Goal
@@ -43,7 +44,7 @@ Streamline the process of booking tickets to save as much time and energy as pos
 
 ## UNDERSTANDING THE USER
 ### User Research 
-* I initiated my research by posing a series of questions to diverse individuals to comprehend their challenges and requirements when reserving a movie seat. The objective of this investigation was twofold: to obtain a deeper comprehension of people and their necessities and to prioritize them in my design approach and final product.
+* I initiated my research by posing a series of questions to diverse individuals to understand their requirements and the problem they face when reserving a movie ticket. The objective of this investigation was twofold: to obtain a deeper comprehension of people and their needs, and to prioritize them in my design approach and final product.
 
 * I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. 
 
@@ -56,9 +57,10 @@ Streamline the process of booking tickets to save as much time and energy as pos
 ![This is an image](../img_repo/CP.IMG.07.png){:width="500" height="250" loading="lazy"}
 
 ### Persona
-* Based on my analysis from the research I carried out, I was able to identify two personas that represent a diverse group of users. 
-* Also, I was able to comprehend what their frustrations are and what their needs might be.
-
+* Based on my analysis from the research I carried out, I was able to identify two personas 
+that represent a diverse group of users. 
+* Also, I was able to discern their frustrations and anticipate their needs.
+* 
 ![This is an image](../img_repo/CP.IMG.08.png){:width="1000" height="750" loading="lazy"}
 
 ### User Journey Map
@@ -71,7 +73,7 @@ Streamline the process of booking tickets to save as much time and energy as pos
 * I created a Sitemap, which is a diagram of a website, that shows how pages are prioritized, linked, and labeled. 
 * It helps to understand how to access any useful information quickly and easily. 
 * During the construction of this sitemap, the results of the user testing were implemented for easy user flow. 
-* I also limited the level of details to minimum to avoid confusion and complexity. 
+* I also limited the amount of details to a minimum to avoid confusion and complexity.
 * The main goal was to make sure that each area has all the necessary information for a user to operate this product.
 
 ![This is an image](../img_repo/CP.IMG.10.png){:width="700" height="350" loading="lazy"}
@@ -87,7 +89,7 @@ Streamline the process of booking tickets to save as much time and energy as pos
 ![This is an image](../img_repo/CP.IMG.12.png){:width="700" height="350" loading="lazy"}
 
 ### Digital Wireframes
-* As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the user research and created Digital Wireframes making sure all the app features are iterated.
+* As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the user research and created Digital Wireframes making sure all the app features were included.
 
 ![This is an image](../img_repo/CP.IMG.13.png){:width="800" height="400" loading="lazy"}
 
@@ -104,7 +106,7 @@ You can view my Low-fidelity Prototypes if you visit [this link](https://xd.adob
 
 ## USABILITY STUDY
 * After prototyping the Low-Fidelity Wireframes, I conducted ‘Usability Study’ where I asked users to perform certain tasks to know how the users interacted with my Design. 
-* The first study helped me guide the Designs froms ‘Wireframes’ to ‘Mockups’.
+* The first study helped me transition the Designs froms ‘Wireframes’ to ‘Mockups’.
 
 ![This is an image](../img_repo/CP.IMG.16.png){:width="200" height="100" loading="lazy"}
 
