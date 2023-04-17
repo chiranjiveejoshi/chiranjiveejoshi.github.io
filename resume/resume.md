@@ -10,8 +10,6 @@ permalink: /resume/
 ## Behance
 You can also view my Portfolio on [Behance](https://www.behance.net/chiranjjoshi)
 
-* ([This Link](https://www.behance.net/chiranjjoshi))
-
 ## **EDUCATION**
 ### Google UX Design Certificate 
 **// 04th September 2022 – 03rd March 2023, Coursera (Online);**
