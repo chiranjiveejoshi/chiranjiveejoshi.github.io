@@ -104,7 +104,7 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 #### Low-Fidelity Prototyping
 You can view my Low-fidelity Prototypes if you visit [this link](https://www.figma.com/proto/MeT20Y6XFfzdiwhqYvTnQ5/Wedding-Mantra?page-id=0%3A1&node-id=105-40&viewport=810%2C402%2C0.14&scaling=scale-down&starting-point-node-id=105%3A40)
 
-## Usability Study Findings
+## USABILITY STUDY FINDINGS
 ![This is an image](../img_repo/WM.IMG.17.png){:width="800" height="400" loading="lazy"}
 
 ![This is an image](../img_repo/WM.IMG.18.png){:width="800" height="400" loading="lazy"}
@@ -113,7 +113,7 @@ You can view my Low-fidelity Prototypes if you visit [this link](https://www.fig
 
 ![This is an image](../img_repo/WM.IMG.20.png){:width="800" height="400" loading="lazy"}
 
-## Refining The Design
+## REFINING THE DESIGN
 
 ![This is an image](../img_repo/WM.IMG.21.png){:width="800" height="400" loading="lazy"}
 
@@ -130,7 +130,8 @@ You can find my High-fidelity Prototypes if you visit [this link](https://www.fi
 ![This is an image](../img_repo/WM.IMG.23.png){:width="800" height="400" loading="lazy"}
 
 ## TAKEAWAYS
-###**Impact:** The feedback I have gotten from the Final Prototype is Positive. My second Usability Study showed that the Design of this App meets the User’s needs.
+### Impact
+The feedback I have gotten from the Final Prototype is Positive. My second Usability Study showed that the Design of this App meets the User’s needs.
 
 **One quote from peer feedback:** *“That’s a pretty good design and flow.”*
 ### What I learned
