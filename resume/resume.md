@@ -7,8 +7,8 @@ sitemap: false
 hide_last_modified: true
 permalink: /resume/
 ---
-## Behance Link
-You can find my Portfolio if you visit
+## Behance
+You can also view my Portfolio on [Behance](https://www.behance.net/chiranjjoshi)
 
 * ([This Link](https://www.behance.net/chiranjjoshi))
 
