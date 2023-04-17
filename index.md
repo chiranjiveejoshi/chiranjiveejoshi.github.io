@@ -4,7 +4,7 @@ title: Hello,
 cover: true
 permalink: /
 ---
-## Welcome to my UX Design Website!
+## Welcome to my UX Design Portfolio!
 
 I am a Sports and Clinical Nutritionist turned UX Designer. I decided to change tracks because I realised that a career in Nutrition did not fulfill my need for creative expression. As a Designer, I believe in creating products that improve the life of users. I encourage mindful designs that will continue to be accessible to all users.
 {:.lead}
@@ -13,7 +13,6 @@ I am a Sports and Clinical Nutritionist turned UX Designer. I decided to change 
 
 [Resume](/resume/) --- You can view my Resume here.
 
-Thanks for stopping by.
 If you wish to connect with me, you can find me on [LinkedIn] or send me an [email].
 
 ![chinu_dp](/img_repo/5703ccae-fa82-423e-a2d3-a37074fc3e67.JPG){:width="400" height="600" loading="lazy"}
