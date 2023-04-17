@@ -10,42 +10,77 @@ hide_last_modified: true
 0. Line to be replace by toc
 {:toc}
 
-I undertook this project to help individuals who have a busy demanding schedule or are out of station or by some means are not able to spare times, to plan a dream wedding for themselves or their friends and family, without missing out on the current trends and fashion, and easy options to compare between different vendors online, through an app, since they do not have the time to personally visit all the shops, venues, vendors, etc.
+Wedding Mantra is a ‘One-Stop-Shop’ App, designed to assist people who are unable to allocate enough time to plan a dream wedding for themselves or their loved ones. This could be due to a variety of reasons such as having a very demanding schedule or living far away. Wedding Mantra can help accomplish hassle-free online experience of vendor comparison, enabling users to stay up-to-date with the latest trends and fashion without physically visiting various shops, venues, or vendors.
 
-> Project Duration: 8 weeks
+> Project Duration: November 2022 to January 2023
 
-### The Problem
-Most of the individuals have a busy demanding schedule or are out of station or by some means are not able to spare time, to plan a dream wedding for themselves or their friends and family. I wanted to develop an app that is a one-stop-shop app which can help these individuals to plan the wedding without missing out on the current trends and fashion, and find easy options to compare between different vendors online through an app since they do not have the time to personally visit 
-all the shops, venues, vendors, etc.
+![This is an image](../img_repo/WM.IMG.Title Page.png){:width="600" height="300" loading="lazy"}
 
-### The Goal
-To figure out if the users are successfully able to plan their dream wedding without missing out on the current trends and fashion by allowing them to surf through, and easily compare between different venues and vendors, book/finalise the vendors and add tasks to checklists.
-
+## PROJECT OVERVIEW
 ### My Role
 Lead UX Designer, UX Researcher
-
 ### My Responsibilities as a UX Designer
-**User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)**
+**User Research, Competitive Audits, Ideation, Wireframing, Mockups and Prototyping (Lo-Fi + Hi-Fi):**
+* To design a Ceremonial Checklist App for trendy wedding
+* To conduct Interviews
+* To conduct Usability Studies
+* To Ideate and Design App Screens
+* To Test the Designs
+* To ensure that the Designs are Interactive and provide a good User Flow, User Journey and an User Experience
+* To conduct Test and Research
+* To re-iterate on Designs
+### The Problem
+Many people are unable to devote the necessary time and attention to plan a dream wedding, due to busy schedules, travel, or other commitments. Consequently, this leads to a lot of hassle, an inability to achieve an envisioned target  of having a dream wedding, and a lack of satisfaction.
+### The Goal
+The aim is to verify if users can effectively utilize the app's browsing features, shortlist vendors, finalize bookings, and add tasks to checklists to ensure everything is on track. By doing so, we can determine whether the app is helping users achieve their goal of having a dream wedding without missing out on current trends and fashion.
+### Tools Used
 
-* To design a ceremonial checklist app for trendy wedding
-* Ideate and design app screens
-* Test designs
-* Ensure that the designs are interactive and provide a good user flow, user journey and a user experience
-* Conduct test and research
-* Re-iterate on designs
+![This is an image](../img_repo/WM.IMG.02.png){:width="600" height="300" loading="lazy"}
 
-![This is an image](../img_repo/cs1_img1_mockup.png){:width="600" height="300" loading="lazy"}
+## DESIGN PROCESS
+I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
+
+![This is an image](../img_repo/WM.IMG.04.png){:width="600" height="300" loading="lazy"}
+
+## UNDERSTANDING THE USER
+### User Research Summary
+
+![This is an image](../img_repo/WM.IMG.05.png){:width="500" height="250" loading="lazy"}
+
+### User Painpoints
+
+![This is an image](../img_repo/WM.IMG.06.png){:width="500" height="250" loading="lazy"}
+
+### PERSONA
+#### Persona 1 : Ms. Aarushi Gore
+
+![This is an image](../img_repo/WM.IMG.08.png){:width="500" height="250" loading="lazy"}
+
+#### Persona 2 : Mr. Chinmay Shahane
+
+![This is an image](../img_repo/WM.IMG.09.png){:width="500" height="250" loading="lazy"}
+
+### User Journey Map
+I created a User Journey Map which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
+
+![This is an image](../img_repo/WM.IMG.10.png){:width="500" height="250" loading="lazy"}
+
+### Story Boarding
+I designed ‘Big Picture Storyboard’ and ‘Closeup Storyboard’ for one of my persona (Aarushi) to visually predict and understand her experience while using my app. 
+
+![This is an image](../img_repo/WM.IMG.11.1.png){:width="500" height="250" loading="lazy"}
+
+![This is an image](../img_repo/WM.IMG.11.2.png){:width="500" height="250" loading="lazy"}
 
 
-### Understanding The User : User Research
-#### User Research Summary
-My research began with a series of inquiries directed at a variety of people in order to have a better understanding of their issues and demands in planning a wedding. The purpose of this study was to gain a better understanding of individuals and their needs, as well as to put them at the center of my design process, and product. I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. I conducted an unmoderated user reasearch with 5 participants on remote basis.
-![This is an image](../img_repo/cs1_img5_study_details_revised.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs1_img3_pain_points.png){:width="500" height="250" loading="lazy"}
-#### Persona : Ms. Aarushi Gore
-Problem Statement : Ms. Aarushi Gore is a workaholic who needs to plan her dream wedding without missing out on the current trends and fashion, and needs easy options to compare between different vendors because she doesn’t have the time to personally visit all the shops, venues, vendors, etc. 
-![This is an image](../img_repo/cs1_img4_persona1.png){:width="500" height="250" loading="lazy"}
-![This is an image](../img_repo/cs1_img6_user_journey_map.png){:width="500" height="250" loading="lazy"}
+
+
+
+
+## COMPETITIVE AUDIT
+I conducted a Competitive Analysis by comparing the different features and experience of browsing through different vendors of both, ‘Direct’ and ‘Indirect’ Competitors’ Apps with the aim of identifying whether the needs of users are met and common problems that I can solve with my app.
+
+![This is an image](../img_repo/WM.IMG.07.png){:width="500" height="250" loading="lazy"}
 
 ### The Design
 #### Paper Wireframes
