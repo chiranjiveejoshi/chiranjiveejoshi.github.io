@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Hello,
+title: Hello!
 cover: true
 permalink: /
 ---
