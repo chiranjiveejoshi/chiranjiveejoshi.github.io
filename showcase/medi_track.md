@@ -49,7 +49,7 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 ![Persona2](../img_repo/MT.IMG.05.2.png){:width="800" height="450" loading="lazy"}
 
 ## SITEMAP
-I created a Sitemap which is a diagram of a Website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. I limited the level of details to minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
+I created a Sitemap which is a diagram of a Website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. I limited the level of details to a minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
 
 ![Persona2](../img_repo/MT.IMG.06.png){:width="700" height="350" loading="lazy"}
 
