@@ -10,7 +10,7 @@ hide_last_modified: true
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-This is a Cross-platform Tool as a Responsive Website that has been designed to help users keep track of their Medication. It is targeted towards the elderly and people with very busy schedules as they tend to forget taking their prescribed Medication at the right time.
+This is a Cross-platform Tool as a Responsive Website that has been designed to help users keep track of their medication. It is targeted towards the elderly and people with very busy schedules as they tend to forget taking their prescribed medication at the right time.
 
 > Project Duration: February 2023 to March 2023
 
@@ -30,9 +30,9 @@ My goal is to design a simple tool that can help improve a person’s quality of
 ![MT_mockup1](../img_repo/MT.IMG.02.1.png){:width="400" height="200" loading="lazy"}
 
 ## DESIGN PROCESS
-I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
+I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a user-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
 
-![Design Thinking Framework](../img_repo/MT.IMG.04.1.png){:width="1200" height="600" loading="lazy"}
+![Design Thinking Framework](../img_repo/MT.IMG.04.1.DP.png){:width="1200" height="600" loading="lazy"}
 
 ## UNDERSTANDING THE USER
 ### User Research
@@ -41,7 +41,7 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 #### Persona 1: Michelle Stewart
 > Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
 
-![Persona1](../img_repo/MT.IMG.05.1.png){:width="800" height="450" loading="lazy"}
+![Persona1](../img_repo/MT.IMG.05.1.Michelle.png){:width="800" height="450" loading="lazy"}
 
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
@@ -51,7 +51,7 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 ## SITEMAP
 I created a Sitemap which is a diagram of a Website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. I limited the level of details to a minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
 
-![Persona2](../img_repo/MT.IMG.06.png){:width="700" height="350" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.06.SM.png){:width="700" height="350" loading="lazy"}
 
 ## IDEATION
 For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way to get ideas flowing for any design problem you need to solve. With Crazy Eights, you’ll sketch eight different designs, each with a new idea for solving the user’s problem. The best part? It only takes eight minutes!
@@ -62,7 +62,7 @@ For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way 
 
 ![Persona2](../img_repo/MT.IMG.08.png){:width="700" height="350" loading="lazy"}
 
-During the initial design phase, I focused on developing digital wireframes based on user research, feedback and findings. Specifically, I prioritized creating wireframes for the mobile version of the website.
+During the initial design phase, I focused on developing Digital Wireframes based on user research feedback and findings. Specifically, I prioritized creating Wireframes for the mobile version of the website.
 
 Additionally, I performed a usability study to identify any pain points that users may have experienced with my design. Based on the results, I iterated on the designs to address these issues.
 
@@ -71,9 +71,9 @@ Additionally, I performed a usability study to identify any pain points that use
 ![Persona2](../img_repo/MT.IMG.09.2.png){:width="800" height="400" loading="lazy"}
 
 ## AFFINITY DIAGRAM
-I created a ‘User Journey Map’, which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
+I created an Affinity Diagram, also known as a Cluster Map. It helped me organize information into groups of similar items, while analyzing qualitative data/observations.
 
-![Persona2](../img_repo/MT.IMG.10.png){:width="800" height="450" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.10.AD.png){:width="800" height="450" loading="lazy"}
 
 ![Persona2](../img_repo/MT.IMG.09.3.png){:width="700" height="350" loading="lazy"}
 
@@ -119,11 +119,11 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565))
 
 ## ACCESSIBILITY CONSIDERATIONS
-![accessibility](../img_repo/WM.IMG.19.png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/MT.IMG.19.png){:width="600" height="400" loading="lazy"}
 
 ## TAKEAWAYS
 ### Impact
-Based on the feedback I received from the final prototype, it appears that the app's design is meeting the users' needs. The results of my second usability study were positive.
+Based on the feedback I received from the final prototype, it appears that the website's design is meeting the users' needs. The results of my second usability study were positive.
 
 **One quote from the peer feedback:**
 > "Beautiful Design and easy User Flow"
@@ -132,7 +132,7 @@ Based on the feedback I received from the final prototype, it appears that the a
 Through the process of designing this project, I gained a deeper appreciation for the importance of user research in the UX process. By incorporating insights from user interviews, peer reviews, and usability studies, I was able to iteratively develop a comprehensive and inclusive design.
 
 ## NEXT STEPS
-![accessibility](../img_repo/WM.IMG.21.png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/MT.IMG.21.png){:width="600" height="400" loading="lazy"}
 
 ![accessibility](../img_repo/iPhone 13 Pro.png){:width="600" height="400" loading="lazy"}
 
