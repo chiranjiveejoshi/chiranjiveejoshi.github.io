@@ -20,7 +20,7 @@ CinePlex is a Website where you can purchase movie tickets. It facilitates quick
 ### My Role
 Lead UX Designer, UX Researcher
 ### My Responsibilities
-**User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi)**
+**User Research, Competitive Audit, Ideation, Wireframing, Prototyping (Lo-Fi + Hi-Fi):**
 * To design a Seat Reservation Flow for a Movie Theatre
 * To conduct Usability Study
 * To Ideate and Design Web Screens
@@ -29,7 +29,8 @@ Lead UX Designer, UX Researcher
 * To conduct Test and Research
 * To iterate on Designs based on test feedback
 ### The Problem
-Busy workers lack the time to book themselves or their friends and family, the tickets to the movies.
+Workers with busy schedules often don't have enough time to book movie tickets for themselves and their friends.
+As a result, individuals who enjoy watching movies end up missing out on this activity.
 ### The Goal
 Streamline the process of booking tickets to save as much time and energy as possible and without any hustle!
 ### Tools Used
@@ -61,16 +62,16 @@ Streamline the process of booking tickets to save as much time and energy as pos
 that represent a diverse group of users. 
 * Also, I was able to discern their frustrations and anticipate their needs.
 
-![This is an image](../img_repo/CP.IMG.08.final.png){:width="1000" height="750" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.08.Persona.png){:width="1000" height="750" loading="lazy"}
 
 ### User Journey Map
 * I created a User Journey Map which is an illustration of what the user goes through to achieve their goals. 
 * It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
 
-![This is an image](../img_repo/CP.IMG.09.png){:width="1000" height="750" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.09.UJM.png){:width="1000" height="750" loading="lazy"}
 
 ## SITEMAP
-* I created a Sitemap, which is a diagram of a website, that shows how pages are prioritized, linked, and labeled. 
+* I created a Sitemap, which is a diagram of a website, that shows how pages are prioritized, linked and labeled. 
 * It helps to understand how to access any useful information quickly and easily. 
 * During the construction of this sitemap, the results of the user testing were implemented for easy user flow. 
 * I also limited the amount of details to a minimum to avoid confusion and complexity.
@@ -84,12 +85,12 @@ that represent a diverse group of users.
 * I proceeded to sketch Wireframes. 
 * I started with Paper Wireframes for the main interfaces that show a complete User Flow. 
 * The main goal in this stage was to create easy and quick iterations of the Design for a simple User Flow. 
-* Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
+* Taking the time to draft iterations of each screen of the website on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
 
 ![This is an image](../img_repo/CP.IMG.12.png){:width="700" height="350" loading="lazy"}
 
 ### Digital Wireframes
-* As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the user research and created Digital Wireframes making sure all the app features were included.
+* As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the User Research and created Digital Wireframes making sure all the app features were included.
 
 ![This is an image](../img_repo/CP.IMG.13.png){:width="800" height="400" loading="lazy"}
 
@@ -97,7 +98,7 @@ that represent a diverse group of users.
 
 ### Low-Fidelity Prototypes
 * Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. 
-* The main user journey that I observed involved first selecting a movie, then choosing a seat, making a payment, and finally receiving a confirmation message for the ticket.
+* The main User Flow that I observed involved first selecting a movie, then choosing a seat, making a payment, and finally receiving a confirmation message for the ticket.
 
 ![This is an image](../img_repo/CP.IMG.15.png){:width="700" height="350" loading="lazy"}
 
@@ -108,7 +109,7 @@ You can view my Low-fidelity Prototypes if you visit [this link](https://xd.adob
 * After prototyping the Low-Fidelity Wireframes, I conducted ‘Usability Study’ where I asked users to perform certain tasks to know how the users interacted with my Design. 
 * The first study helped me transition the Designs froms ‘Wireframes’ to ‘Mockups’.
 
-![This is an image](../img_repo/CP.IMG.16.png){:width="200" height="100" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.16.1.png){:width="200" height="100" loading="lazy"}
 
 ## DESIGN ITERATIONS
 ![This is an image](../img_repo/CP.IMG.17.png){:width="800" height="450" loading="lazy"}
@@ -127,7 +128,8 @@ You can find my High-fidelity Prototypes if you visit [this link](https://xd.ado
 ## TAKEAWAYS
 **Impact:** The final prototype has received positive feedback, and the usability study indicates that the website's design is capable of meeting the user's needs.
 
-**One quote from peer feedback:** *“Looks good for a Hi-Fi! Keep up the good work.”*
+**One quote from the peer feedback:**
+> "Looks good for a Hi-Fi! Keep up the good work."
 
 **What I learned:** During the project's design process, I obtained valuable insights into the pivotal role that user research plays in UX. By meticulously analyzing the feedback obtained through user interviews, peer reviews, and usability studies, I could progressively develop a comprehensive and inclusive design. 
 
