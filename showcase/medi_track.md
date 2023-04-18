@@ -126,7 +126,7 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 Based on the feedback I received from the final prototype, it appears that the website's design is meeting the users' needs. The results of my second usability study were positive.
 
 **One quote from the peer feedback:**
-> "Beautiful Design and easy User Flow"
+> "Beautiful Design and easy User Flow!"
 
 ### What I learned
 Through the process of designing this project, I gained a deeper appreciation for the importance of user research in the UX process. By incorporating insights from user interviews, peer reviews, and usability studies, I was able to iteratively develop a comprehensive and inclusive design.
