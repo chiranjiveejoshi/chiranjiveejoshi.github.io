@@ -44,7 +44,7 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 ![Persona1](../img_repo/MT.IMG.05.1.Michelle.png){:width="800" height="450" loading="lazy"}
 
 #### Persona 2: Mark Jacobs
-> Problem statement: Mark is a retired salesman who needs to keep track of various medicines because of his medical conditions.
+> Problem statement: Mark is a retired Salesperson who needs to keep track of various medicines because of his medical conditions.
 
 ![Persona2](../img_repo/MT.IMG.05.2.png){:width="800" height="450" loading="lazy"}
 
@@ -73,7 +73,7 @@ Additionally, I performed a usability study to identify any pain points that use
 ## AFFINITY DIAGRAM
 I created an Affinity Diagram, also known as a Cluster Map. It helped me organize information into groups of similar items, while analyzing qualitative data/observations.
 
-![Persona2](../img_repo/MT.IMG.10.AD.png){:width="800" height="450" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.10.AD..png){:width="800" height="450" loading="lazy"}
 
 ![Persona2](../img_repo/MT.IMG.09.3.png){:width="700" height="350" loading="lazy"}
 
@@ -88,7 +88,7 @@ I created an Affinity Diagram, also known as a Cluster Map. It helped me organiz
 ## LOW-FIDELITY PROTOTYPES
 Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main User Flow I established involved selecting a date to add a new reminder and then receiving a confirmation prompt once the reminder was successfully set, so the Prototype could be used in an usability study.
 
-![wireframe](../img_repo/WM.IMG.14.png){:width="800" height="400" loading="lazy"}
+![wireframe](../img_repo/WM.IMG.14..png){:width="800" height="400" loading="lazy"}
 
 **The links to Lo-Fi Prototypes that I have designed can be found below-**
 
@@ -132,7 +132,7 @@ Based on the feedback I received from the final prototype, it appears that the w
 Through the process of designing this project, I gained a deeper appreciation for the importance of user research in the UX process. By incorporating insights from user interviews, peer reviews, and usability studies, I was able to iteratively develop a comprehensive and inclusive design.
 
 ## NEXT STEPS
-![accessibility](../img_repo/MT.IMG.21.png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/MT.IMG.21..png){:width="600" height="400" loading="lazy"}
 
 ![accessibility](../img_repo/iPhone 13 Pro.png){:width="600" height="400" loading="lazy"}
 
