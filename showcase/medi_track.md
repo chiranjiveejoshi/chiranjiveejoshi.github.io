@@ -62,7 +62,7 @@ For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way 
 
 ![Persona2](../img_repo/MT.IMG.08.png){:width="700" height="350" loading="lazy"}
 
-During the initial design phase, I focused on developing Digital Wireframes based on user research feedback and findings. Specifically, I prioritized creating Wireframes for the mobile version of the website.
+During the initial design phase, I focused on developing Digital Wireframes based on user research, feedback and findings. Specifically, I prioritized creating Wireframes for the mobile version of the website.
 
 Additionally, I performed a usability study to identify any pain points that users may have experienced with my design. Based on the results, I iterated on the designs to address these issues.
 
