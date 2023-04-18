@@ -86,7 +86,7 @@ I created an Affinity Diagram, also known as a Cluster Map. It helped me organiz
 ![wireframe](../img_repo/MT.IMG.13.png){:width="600" height="400" loading="lazy"}
 
 ## LOW-FIDELITY PROTOTYPES 
-Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main User Flow I established involved selecting a date to add a new reminder and then receiving a confirmation prompt once the reminder was successfully set, so the Prototype could be used in an Usability Study.
+Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main User Flow I established involved selecting a date to add a new reminder and then receiving a confirmation prompt once the reminder was successfully set, so the Prototype could be used in the Usability Study.
 
 ![wireframe](../img_repo/WM.IMG.14..png){:width="800" height="400" loading="lazy"}
 
