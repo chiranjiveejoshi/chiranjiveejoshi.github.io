@@ -10,7 +10,7 @@ hide_last_modified: true
 0. Line to be replaced
 {:toc}
 
-CinePlex is a Website where you can purchase Movie Tickets. It facilitates quick and efficient booking for you, your friends, and your family, making the process more enjoyable. You can also reserve seats in advance and make changes to your booking, such as ‘Canceling’ or ‘Rescheduling’.
+CinePlex is a Website where you can purchase movie tickets. It facilitates quick and efficient booking for you, your friends, and your family, making the process more enjoyable. You can also reserve seats in advance and make changes to your booking, such as ‘Canceling’ or ‘Rescheduling’.
 
 > Project Duration: January 2023 to February 2023
 
@@ -38,7 +38,7 @@ Streamline the process of booking tickets to save as much time and energy as pos
 
 ## DESIGN PROCESS
 * I followed the ‘Design Thinking Framework’ for this project. 
-* The Design Thinking Framework is a User-centered approach to ‘problem-solving’ that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
+* The Design Thinking Framework is a user-centered approach to ‘problem-solving’ that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
 
 ![This is an image](../img_repo/CP.IMG.05.png){:width="800" height="400" loading="lazy"}
 
@@ -93,7 +93,7 @@ that represent a diverse group of users.
 
 ![This is an image](../img_repo/CP.IMG.13.png){:width="800" height="400" loading="lazy"}
 
-![This is an image](../img_repo/CP.IMG.14.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.14..png){:width="800" height="400" loading="lazy"}
 
 ### Low-Fidelity Prototypes
 * Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. 
@@ -125,7 +125,7 @@ You can find my High-fidelity Prototypes if you visit [this link](https://xd.ado
 ![This is an image](../img_repo/CP.IMG.19.png){:width="500" height="250" loading="lazy"}
 
 ## TAKEAWAYS
-**Impact:** The final prototype has received positive feedback, and the usability study indicates that the app's design is capable of meeting the user's needs.
+**Impact:** The final prototype has received positive feedback, and the usability study indicates that the website's design is capable of meeting the user's needs.
 
 **One quote from peer feedback:** *“Looks good for a Hi-Fi! Keep up the good work.”*
 
