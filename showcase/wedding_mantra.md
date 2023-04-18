@@ -2,7 +2,7 @@
 layout: page
 title: Wedding Mantra 
 description: >
-  **A Ceremonial Checklist App for a Trendy Wedding**
+  **A Ceremonial Checklist App for Weddings**
 sitemap: false
 hide_last_modified: true
 ---
@@ -35,10 +35,10 @@ Many people are unable to devote the necessary time and attention to plan a drea
 The aim is to verify if users can effectively utilize the app's browsing features, shortlist vendors, finalize bookings, and add tasks to checklists to ensure everything is on track. By doing so, we can determine whether the app is helping users achieve their goal of having a dream wedding without missing out on current trends and fashion.
 ### Tools Used
 
-![This is an image](../img_repo/WM.IMG.02.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.02..png){:width="800" height="400" loading="lazy"}
 
 ## DESIGN PROCESS
-I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a User-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
+I followed the ‘Design Thinking Framework’ for this project. The Design Thinking Framework is a user-centered approach to problem-solving that includes activities like Research, Prototyping and Testing to help understand who the ‘User’ is, what their problems are, and what the design should include.
 
 ![This is an image](../img_repo/WM.IMG.04.png){:width="800" height="400" loading="lazy"}
 
@@ -90,14 +90,14 @@ Taking the time to draft iterations of each screen of the app on paper ensured t
 ![This is an image](../img_repo/WM.IMG.13.3.png){:width="800" height="400" loading="lazy"}
 
 ### Digital Wireframes
-As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the user research and created Digital Wireframes making sure all the app features are iterated.
+As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the User Research and created Digital Wireframes making sure all the app features are iterated.
 
 ![This is an image](../img_repo/WM.IMG.14.png){:width="800" height="400" loading="lazy"}
 
 ![This is an image](../img_repo/WM.IMG.15.png){:width="800" height="400" loading="lazy"}
 
 ### Low-Fidelity Prototypes
-Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The primary User Flow I connected was ‘Shortlisting’ a Vendor from ‘Bridal Wear’ category, so the Prototype could be used in an Usability Study.
+Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The primary User Flow I connected was ‘Shortlisting’ a Vendor from ‘Bridal Wear’ category, so the Prototype could be used in the Usability Study.
 
 ![This is an image](../img_repo/WM.IMG.16.png){:width="800" height="400" loading="lazy"}
 
@@ -105,7 +105,7 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 You can view my Low-fidelity Prototypes if you visit [this link](https://www.figma.com/proto/MeT20Y6XFfzdiwhqYvTnQ5/Wedding-Mantra?page-id=0%3A1&node-id=105-40&viewport=810%2C402%2C0.14&scaling=scale-down&starting-point-node-id=105%3A40)
 
 ## USABILITY STUDY FINDINGS
-![This is an image](../img_repo/WM.IMG.17.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.17..png){:width="800" height="400" loading="lazy"}
 
 ![This is an image](../img_repo/WM.IMG.18.png){:width="800" height="400" loading="lazy"}
 
@@ -127,16 +127,18 @@ You can find my High-fidelity Prototypes if you visit [this link](https://www.fi
 
 ## ACCESSIBILITY CONSIDERATIONS
 
-![This is an image](../img_repo/WM.IMG.23.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.23..png){:width="800" height="400" loading="lazy"}
 
 ## TAKEAWAYS
 ### Impact
 The feedback I have gotten from the Final Prototype is Positive. My second Usability Study showed that the Design of this App meets the User’s needs.
 
-**One quote from peer feedback:** *“That’s a pretty good design and flow.”*
+**One quote from the peer feedback:**
+> "That’s a pretty good design and flow."
+
 ### What I learned
 In designing this project, I learned that User Research plays an invaluable role in the UX process. Based on the influence of the User Interviews, Peer Reviews and Usability Studies, I was able to iteratively improve my Design to become more comprehensive and inclusive.
 
 ## NEXT STEPS
 
-![This is an image](../img_repo/WM.IMG.25.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.25..png){:width="800" height="400" loading="lazy"}
