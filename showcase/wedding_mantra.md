@@ -14,9 +14,11 @@ Wedding Mantra is a ‘One-Stop-Shop’ App, designed to assist people who are u
 
 > Project Duration: November 2022 to January 2023
 
+
 ![This is an image](../img_repo/WM.IMG.Title Page.png){:width="800" height="400" loading="lazy"}
 
 ## PROJECT OVERVIEW
+
 ### My Role
 Lead UX Designer, UX Researcher
 ### My Responsibilities
@@ -43,7 +45,9 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 ![This is an image](../img_repo/WM.IMG.04.png){:width="800" height="400" loading="lazy"}
 
 ## UNDERSTANDING THE USER
+
 ### User Research
+
 ![This is an image](../img_repo/WM.IMG.05.png){:width="800" height="400" loading="lazy"}
 
 ### User Painpoints
@@ -51,6 +55,7 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 ![This is an image](../img_repo/WM.IMG.06.png){:width="800" height="400" loading="lazy"}
 
 ### Persona
+
 #### Persona 1 : Ms. Aarushi Gore
 
 ![This is an image](../img_repo/WM.IMG.08.png){:width="800" height="400" loading="lazy"}
@@ -77,6 +82,7 @@ I conducted a Competitive Analysis by comparing the different features and exper
 ![This is an image](../img_repo/WM.IMG.07.png){:width="500" height="250" loading="lazy"}
 
 ## START THE DESIGN
+
 ### Paper Wireframes
 I proceeded to sketch Wireframes. 
 I started with Paper Wireframes for the main interfaces that show a complete User Flow. The main goal in this stage was to create easy and quick iterations of the Design for a simple User Flow. 
@@ -130,12 +136,12 @@ You can find my High-fidelity Prototypes if you visit [this link](https://www.fi
 ![This is an image](../img_repo/WM.IMG.23..png){:width="800" height="400" loading="lazy"}
 
 ## TAKEAWAYS
+
 ### Impact
 The feedback I have gotten from the Final Prototype is Positive. My second Usability Study showed that the Design of this App meets the User’s needs.
 
 **One quote from the peer feedback:**
 > "That’s a pretty good design and flow."
-
 ### What I learned
 In designing this project, I learned that User Research plays an invaluable role in the UX process. Based on the influence of the User Interviews, Peer Reviews and Usability Studies, I was able to iteratively improve my Design to become more comprehensive and inclusive.
 
