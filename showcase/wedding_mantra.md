@@ -142,6 +142,7 @@ The feedback I have gotten from the Final Prototype is Positive. My second Usabi
 
 **One quote from the peer feedback:**
 > "That’s a pretty good design and flow."
+
 ### What I learned
 In designing this project, I learned that User Research plays an invaluable role in the UX process. Based on the influence of the User Interviews, Peer Reviews and Usability Studies, I was able to iteratively improve my Design to become more comprehensive and inclusive.
 
