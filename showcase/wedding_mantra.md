@@ -48,7 +48,7 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 
 ### User Research
 
-![This is an image](../img_repo/WM.IMG.05.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.05.R1.png){:width="800" height="400" loading="lazy"}
 
 ### User Painpoints
 
@@ -117,11 +117,11 @@ You can view my Low-fidelity Prototypes if you visit [this link](https://www.fig
 
 ![This is an image](../img_repo/WM.IMG.19.png){:width="800" height="400" loading="lazy"}
 
-![This is an image](../img_repo/WM.IMG.20.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.20.R1.png){:width="800" height="400" loading="lazy"}
 
 ## REFINING THE DESIGN
 
-![This is an image](../img_repo/WM.IMG.21.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.21.R1.png){:width="800" height="400" loading="lazy"}
 
 ### High-Fidelity Prototypes
 Using the completed set of Low-fidelity Prototypes, I created High-fidelity Mockups and Prototypes.
