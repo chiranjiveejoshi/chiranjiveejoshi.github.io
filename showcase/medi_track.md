@@ -79,7 +79,7 @@ I created an Affinity Diagram, also known as a Cluster Map. It helped me organiz
 
 ## DIGITAL WIREFRAMES
 
-![wireframe](../img_repo/MT.IMG.11.png){:width="600" height="400" loading="lazy"}
+![wireframe](../img_repo/MT.IMG.11.DWMV.png){:width="600" height="400" loading="lazy"}
 
 ![wireframe](../img_repo/MT.IMG.12.png){:width="600" height="400" loading="lazy"}
 
@@ -102,7 +102,7 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 ![wireframe](../img_repo/MT.IMG.15.png){:width="600" height="400" loading="lazy"}
 
 
-![wireframe](../img_repo/MT.IMG.16.png){:width="600" height="400" loading="lazy"}
+![wireframe](../img_repo/MT.IMG.16.MMV.png){:width="600" height="400" loading="lazy"}
 
 
 ![wireframe](../img_repo/MT.IMG.17.png){:width="600" height="400" loading="lazy"}
