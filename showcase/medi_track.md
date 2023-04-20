@@ -112,11 +112,11 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 
 **The links to Hi-Fi Prototypes that I have designed can be found below-**
 
-* Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=49%3A2174&scaling=scale-down&page-id=49%3A2172))
+* ([Mobile Verision](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=49%3A2174&scaling=scale-down&page-id=49%3A2172))
 
-* Tablet Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=105%3A2765&scaling=min-zoom&page-id=105%3A2764))
+* ([Tablet Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=105%3A2765&scaling=min-zoom&page-id=105%3A2764))
 
-* Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565))
+* ([Desktop Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565))
 
 ## ACCESSIBILITY CONSIDERATIONS
 ![accessibility](../MT.IMG.19.R1.png){:width="600" height="400" loading="lazy"}
@@ -132,7 +132,7 @@ Based on the feedback I received from the final Prototype, it appears that the W
 Through the process of designing this project, I gained a deeper appreciation for the importance of User Research in the UX process. By incorporating insights from User Interviews, Peer Reviews and Usability Studies, I was able to iteratively develop a comprehensive and inclusive Design.
 
 ## NEXT STEPS
-![accessibility](../img_repo/MT.IMG.21..png){:width="600" height="400" loading="lazy"}
+![accessibility](../img_repo/MT.IMG.21.R1.png){:width="600" height="400" loading="lazy"}
 
 ![accessibility](../img_repo/iPhone 13 Pro.png){:width="600" height="400" loading="lazy"}
 
