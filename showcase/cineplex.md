@@ -134,4 +134,4 @@ You can find my High-fidelity Prototypes if you visit [this link](https://xd.ado
 **What I learned:** During the project's Design process, I obtained valuable insights into the pivotal role that User Research plays in UX. By meticulously analyzing the feedback obtained through User Interviews, Peer Reviews and Usability Studies, I could progressively develop a comprehensive and inclusive Design. 
 
 ## NEXT STEPS
-![This is an image](../img_repo/CP.IMG.21.png){:width="600" height="300" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.21.R1.png){:width="600" height="300" loading="lazy"}
