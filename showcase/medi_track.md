@@ -92,11 +92,11 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 
 **The links to Lo-Fi Prototypes that I have designed can be found below-**
 
-* Mobile Verision ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=48%3A719&scaling=scale-down&page-id=47%3A277&starting-point-node-id=48%3A719&show-proto-sidebar=1))
+* [Mobile Verision](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=48%3A719&scaling=scale-down&page-id=47%3A277&starting-point-node-id=48%3A719&show-proto-sidebar=1)
 
-* Tablet Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=99%3A873&scaling=min-zoom&page-id=99%3A2&starting-point-node-id=99%3A873))
+* [Tablet Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=99%3A873&scaling=min-zoom&page-id=99%3A2&starting-point-node-id=99%3A873)
 
-* Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=63%3A734&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=63%3A734))
+* [Desktop Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=63%3A734&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=63%3A734)
 
 
 ![wireframe](../img_repo/MT.IMG.15.png){:width="600" height="400" loading="lazy"}
@@ -114,9 +114,9 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 
 * [Mobile Verision](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=49%3A2174&scaling=scale-down&page-id=49%3A2172)
 
-* ([Tablet Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=105%3A2765&scaling=min-zoom&page-id=105%3A2764))
+* [Tablet Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=105%3A2765&scaling=min-zoom&page-id=105%3A2764)
 
-* ([Desktop Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565))
+* [Desktop Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565)
 
 ## ACCESSIBILITY CONSIDERATIONS
 ![accessibility](../MT.IMG.19.R1.png){:width="600" height="400" loading="lazy"}
