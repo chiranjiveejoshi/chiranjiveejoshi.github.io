@@ -123,13 +123,13 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 
 ## TAKEAWAYS
 ### Impact
-Based on the feedback I received from the final prototype, it appears that the website's design is meeting the users' needs. The results of my second usability study were positive.
+Based on the feedback I received from the final Prototype, it appears that the Website's Design is meeting the User’s needs. The results of my second Usability Study were positive.
 
 **One quote from the peer feedback:**
 > "Beautiful Design and easy User Flow!"
 
 ### What I learned
-Through the process of designing this project, I gained a deeper appreciation for the importance of user research in the UX process. By incorporating insights from user interviews, peer reviews, and usability studies, I was able to iteratively develop a comprehensive and inclusive design.
+Through the process of designing this project, I gained a deeper appreciation for the importance of User Research in the UX process. By incorporating insights from User Interviews, Peer Reviews and Usability Studies, I was able to iteratively develop a comprehensive and inclusive Design.
 
 ## NEXT STEPS
 ![accessibility](../img_repo/MT.IMG.21..png){:width="600" height="400" loading="lazy"}
