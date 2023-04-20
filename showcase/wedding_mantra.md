@@ -10,7 +10,7 @@ hide_last_modified: true
 0. Line to be replace by toc
 {:toc}
 
-Wedding Mantra is a ‘One-Stop-Shop’ App, designed to assist people who are unable to allocate enough time to plan a dream wedding for themselves or their loved ones. This could be due to a variety of reasons such as having a very demanding schedule or living far away. Wedding Mantra can help accomplish hassle-free online experience of vendor comparison, enabling users to stay up-to-date with the latest trends and fashion without physically visiting various shops, venues, or vendors.
+Wedding Mantra is a ‘One-Stop-Shop’ App, designed to assist people who are unable to allocate enough time to plan a dream wedding for themselves or their loved ones. This could be due to a variety of reasons such as having a very demanding schedule or living far away. Wedding Mantra can help accomplish hassle-free online experience of vendor comparison, enabling users to stay up-to-date with the latest trends and fashion without physically visiting various shops, venues or vendors.
 
 > Project Duration: November 2022 to January 2023
 
@@ -23,7 +23,7 @@ Wedding Mantra is a ‘One-Stop-Shop’ App, designed to assist people who are u
 Lead UX Designer, UX Researcher
 ### My Responsibilities
 **User Research, Competitive Audits, Ideation, Wireframing, Mockups and Prototyping (Lo-Fi + Hi-Fi):**
-* To design a Ceremonial Checklist App for trendy wedding
+* To design a Ceremonial Checklist App for trendy Wedding
 * To conduct Interviews
 * To conduct Usability Studies
 * To Ideate and Design App Screens
@@ -48,7 +48,7 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 
 ### User Research
 
-![This is an image](../img_repo/WM.IMG.05.R1.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.05.R2.png){:width="800" height="400" loading="lazy"}
 
 ### User Painpoints
 
@@ -70,14 +70,14 @@ I created a User Journey Map which is an illustration of what the user goes thro
 ![This is an image](../img_repo/WM.IMG.10.png){:width="800" height="400" loading="lazy"}
 
 ### Story Boarding
-I designed ‘Big Picture Storyboard’ and ‘Closeup Storyboard’ for one of my persona (Aarushi) to visually predict and understand her experience while using my app. 
+I designed ‘Big Picture Storyboard’ and ‘Closeup Storyboard’ for one of my persona (Aarushi) to visually predict and understand her experience while using my App. 
 
 ![This is an image](../img_repo/WM.IMG.11.1.png){:width="800" height="400" loading="lazy"}
 
 ![This is an image](../img_repo/WM.IMG.11.2.png){:width="800" height="400" loading="lazy"}
 
 ## COMPETITIVE AUDIT
-I conducted a Competitive Analysis by comparing the different features and experience of browsing through different vendors of both, ‘Direct’ and ‘Indirect’ Competitors’ Apps with the aim of identifying whether the needs of users are met and common problems that I can solve with my app.
+I conducted a Competitive Analysis by comparing the different features and experience of browsing through different vendors of both, ‘Direct’ and ‘Indirect’ Competitors’ Apps with the aim of identifying whether the needs of users are met and common problems that I can solve with my App.
 
 ![This is an image](../img_repo/WM.IMG.07.png){:width="500" height="250" loading="lazy"}
 
@@ -87,7 +87,7 @@ I conducted a Competitive Analysis by comparing the different features and exper
 I proceeded to sketch Wireframes. 
 I started with Paper Wireframes for the main interfaces that show a complete User Flow. The main goal in this stage was to create easy and quick iterations of the Design for a simple User Flow. 
 
-Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
+Taking the time to draft iterations of each screen of the App on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
 
 ![This is an image](../img_repo/WM.IMG.13.1.png){:width="800" height="400" loading="lazy"}
 
@@ -96,7 +96,7 @@ Taking the time to draft iterations of each screen of the app on paper ensured t
 ![This is an image](../img_repo/WM.IMG.13.3.png){:width="800" height="400" loading="lazy"}
 
 ### Digital Wireframes
-As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the User Research and created Digital Wireframes making sure all the app features are iterated.
+As the initial Design phase continued, I made sure to base Screen Designs on Feedback and Findings from the User Research and created Digital Wireframes making sure all the App features are iterated.
 
 ![This is an image](../img_repo/WM.IMG.14.png){:width="800" height="400" loading="lazy"}
 
