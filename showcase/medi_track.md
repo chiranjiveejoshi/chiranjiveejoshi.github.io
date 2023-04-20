@@ -112,7 +112,7 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 
 **The links to Hi-Fi Prototypes that I have designed can be found below-**
 
-* ([Mobile Verision](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=49%3A2174&scaling=scale-down&page-id=49%3A2172))
+* [Mobile Verision](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=49%3A2174&scaling=scale-down&page-id=49%3A2172)
 
 * ([Tablet Version](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=105%3A2765&scaling=min-zoom&page-id=105%3A2764))
 
