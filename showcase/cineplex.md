@@ -32,7 +32,7 @@ Lead UX Designer, UX Researcher
 Workers with busy schedules often don't have enough time to book movie tickets for themselves and their friends.
 As a result, individuals who enjoy watching movies end up missing out on this activity.
 ### The Goal
-Streamline the process of booking tickets to save as much time and energy as possible and without any hustle!
+Streamline the process of booking tickets to save as much time and energy as possible, and without any hustle!
 ### Tools Used
 
 ![This is an image](../img_repo/CP.IMG.03.png){:width="800" height="400" loading="lazy"}
@@ -47,11 +47,11 @@ Streamline the process of booking tickets to save as much time and energy as pos
 ### User Research 
 * I initiated my research by posing a series of questions to diverse individuals to understand their requirements and the problem they face when reserving a movie ticket. The objective of this investigation was twofold: to obtain a deeper comprehension of people and their needs, and to prioritize them in my design approach and final product.
 
-* I gathered information through one-on-one interviews in order to learn more about the people and the issues they confront. 
+* I gathered information through **one-on-one Interviews** in order to learn more about the people and the issues they confront. 
 
-* Through my research, I identified the user group as all individuals who don’t have time to personally visit movie theatres to book movie tickets or are busy and want to book tickets quickly without any hustle.
+* Through my research, I identified the **User group** as all individuals who don’t have time to personally visit movie theatres to book movie tickets or are busy and want to book tickets quickly without any hustle.
 
-* I conducted an unmoderated user reasearch with 5 participants on remote basis.
+* I conducted an **Unmoderated User Reasearch with 5 participants on remote basis.**
 
 ### User Painpoints
 
@@ -71,9 +71,9 @@ that represent a diverse group of users.
 ![This is an image](../img_repo/CP.IMG.09.UJM.png){:width="1000" height="750" loading="lazy"}
 
 ## SITEMAP
-* I created a Sitemap, which is a diagram of a website, that shows how pages are prioritized, linked and labeled. 
+* I created a Sitemap, which is a diagram of a Website, that shows how pages are prioritized, linked and labeled. 
 * It helps to understand how to access any useful information quickly and easily. 
-* During the construction of this sitemap, the results of the user testing were implemented for easy user flow. 
+* During the construction of this Sitemap, the results of the user testing were implemented for easy User Flow. 
 * I also limited the amount of details to a minimum to avoid confusion and complexity.
 * The main goal was to make sure that each area has all the necessary information for a user to operate this product.
 
@@ -85,7 +85,7 @@ that represent a diverse group of users.
 * I proceeded to sketch Wireframes. 
 * I started with Paper Wireframes for the main interfaces that show a complete User Flow. 
 * The main goal in this stage was to create easy and quick iterations of the Design for a simple User Flow. 
-* Taking the time to draft iterations of each screen of the website on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
+* Taking the time to draft iterations of each screen of the Website on paper ensured that the elements that made it to Digital Wireframes would be well-suited to address User Pain Points.
 
 ![This is an image](../img_repo/CP.IMG.12.png){:width="700" height="350" loading="lazy"}
 
@@ -126,12 +126,12 @@ You can find my High-fidelity Prototypes if you visit [this link](https://xd.ado
 ![This is an image](../img_repo/CP.IMG.19.png){:width="500" height="250" loading="lazy"}
 
 ## TAKEAWAYS
-**Impact:** The final prototype has received positive feedback, and the usability study indicates that the website's design is capable of meeting the user's needs.
+**Impact:** The final Prototype has received positive feedback, and the Usability Study indicates that the Website's Design is capable of meeting the User's needs.
 
 **One quote from the peer feedback:**
 > "Looks good for a Hi-Fi! Keep up the good work."
 
-**What I learned:** During the project's design process, I obtained valuable insights into the pivotal role that user research plays in UX. By meticulously analyzing the feedback obtained through user interviews, peer reviews, and usability studies, I could progressively develop a comprehensive and inclusive design. 
+**What I learned:** During the project's Design process, I obtained valuable insights into the pivotal role that User Research plays in UX. By meticulously analyzing the feedback obtained through User Interviews, Peer Reviews and Usability Studies, I could progressively develop a comprehensive and inclusive Design. 
 
 ## NEXT STEPS
 ![This is an image](../img_repo/CP.IMG.21.png){:width="600" height="300" loading="lazy"}
