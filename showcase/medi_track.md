@@ -39,9 +39,9 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 I initiated my research by posing a series of inquiries to a diverse group of individuals to gain a deeper comprehension of their challenges and requirements when it comes to remembering their daily routines. The objective of this study was to gain insights into the individuals and their needs, and to prioritize them throughout the product design process. I gathered information by conducting one-on-one interviews to obtain a better understanding of the people and the challenges they encounter.
 ### Personas
 #### Persona 1: Michelle Stewart
-> Problem statement: Michelle is an Investment banker who needs timely medication reminders because she forgets on busy work days.
+> Problem statement: Michelle is an Investment Banker who needs timely medication reminders because she forgets on busy work days.
 
-![Persona1](../img_repo/MT.IMG.05.1.Michelle.png){:width="800" height="450" loading="lazy"}
+![Persona1](../img_repo/MT.IMG.05.1.Michelle.R1.png){:width="800" height="450" loading="lazy"}
 
 #### Persona 2: Mark Jacobs
 > Problem statement: Mark is a retired Salesperson who needs to keep track of various medicines because of his medical conditions.
@@ -49,12 +49,12 @@ I initiated my research by posing a series of inquiries to a diverse group of in
 ![Persona2](../img_repo/MT.IMG.05.2.png){:width="800" height="450" loading="lazy"}
 
 ## SITEMAP
-I created a Sitemap which is a diagram of a Website, that shows how pages are prioritized, linked, and labeled. It helps to understand how to access any useful information quickly and easily. I limited the level of details to a minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
+I created a Sitemap which is a diagram of a Website, that shows how pages are prioritized, linked and labeled. It helps to understand how to access any useful information quickly and easily. I limited the level of details to a minimum to avoid confusion and complexity. The main goal was to make sure that each area has all the necessary information for a user to operate this product.
 
 ![Persona2](../img_repo/MT.IMG.06.SM.png){:width="700" height="350" loading="lazy"}
 
 ## IDEATION
-For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way to get ideas flowing for any design problem you need to solve. With Crazy Eights, you’ll sketch eight different designs, each with a new idea for solving the user’s problem. The best part? It only takes eight minutes!
+For the Ideation, I used ‘Crazy Eights’ method. Crazy Eights is a great way to get ideas flowing for any design problem you need to solve. With Crazy Eights, you’ll sketch eight different designs, each with a new idea for solving the user’s problem. The best part? It only takes eight minutes!
 
 
 ![Persona2](../img_repo/WhatsApp Image 2023-04-13 at 14.13.44.jpeg){:width="700" height="350" loading="lazy"}
@@ -62,9 +62,9 @@ For the Ideation, I used ‘Crazy Eights’ Method. Crazy Eights is a great way 
 
 ![Persona2](../img_repo/MT.IMG.08.png){:width="700" height="350" loading="lazy"}
 
-During the initial design phase, I focused on developing Digital Wireframes based on user research, feedback and findings. Specifically, I prioritized creating Wireframes for the mobile version of the website.
+During the initial design phase, I focused on developing Digital Wireframes based on User Research, Feedback and Findings. Specifically, I prioritized creating Wireframes for the Mobile Version of the Website.
 
-Additionally, I performed a usability study to identify any pain points that users may have experienced with my design. Based on the results, I iterated on the designs to address these issues.
+Additionally, I performed a Usability Study to identify any Pain Points that users may have experienced with my Design. Based on the results, I iterated on the Designs to address these issues.
 
 ![Persona2](../img_repo/MT.IMG.09.1.png){:width="800" height="400" loading="lazy"}
 
@@ -73,7 +73,7 @@ Additionally, I performed a usability study to identify any pain points that use
 ## AFFINITY DIAGRAM
 I created an Affinity Diagram, also known as a Cluster Map. It helped me organize information into groups of similar items, while analyzing qualitative data/observations.
 
-![Persona2](../img_repo/MT.IMG.10.AD..png){:width="800" height="450" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.10.AD.R1.png){:width="800" height="450" loading="lazy"}
 
 ![Persona2](../img_repo/MT.IMG.09.3.png){:width="700" height="350" loading="lazy"}
 
@@ -88,7 +88,7 @@ I created an Affinity Diagram, also known as a Cluster Map. It helped me organiz
 ## LOW-FIDELITY PROTOTYPES 
 Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Prototype. The main User Flow I established involved selecting a date to add a new reminder and then receiving a confirmation prompt once the reminder was successfully set, so the Prototype could be used in the Usability Study.
 
-![wireframe](../img_repo/WM.IMG.14.R1.png){:width="800" height="400" loading="lazy"}
+![wireframe](../img_repo/WM.IMG.14.R2.png){:width="800" height="400" loading="lazy"}
 
 **The links to Lo-Fi Prototypes that I have designed can be found below-**
 
@@ -119,7 +119,7 @@ Using the completed set of Digital Wireframes, I created a ‘Low-Fidelity’ Pr
 * Desktop Version ([Link](https://www.figma.com/proto/pjzeF8TDVa6MgfQDIuNWf1/Medicine-Reminder-App?node-id=74%3A2566&scaling=min-zoom&page-id=74%3A2565))
 
 ## ACCESSIBILITY CONSIDERATIONS
-![accessibility](../img_repo/MT.IMG.19.png){:width="600" height="400" loading="lazy"}
+![accessibility](../MT.IMG.19.R1.png){:width="600" height="400" loading="lazy"}
 
 ## TAKEAWAYS
 ### Impact
