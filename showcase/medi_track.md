@@ -10,7 +10,7 @@ hide_last_modified: true
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-This is a Cross-platform Tool as a Responsive Website that has been designed to help users keep track of their medication. It is targeted towards the elderly and people with very busy schedules as they tend to forget taking their prescribed medication at the right time.
+This is a Cross-platform Tool as a Responsive Website that has been designed to help users keep a track of their medication. It is targeted towards the elderly and people with very busy schedules as they tend to forget taking their prescribed medication at the right time.
 
 > Project Duration: February 2023 to March 2023
 
@@ -24,7 +24,7 @@ User Research, Interviews, Usability Studies, Ideation, Wireframing, Mockups, Pr
 ### The Problem
 People often forget to take their medications at the correct time. This is especially true for senior citizens and people with extremely hectic lives.
 ### The Goal
-My goal is to design a simple tool that can help improve a person’s quality of life by keeping track of medications and reminding the users at the appropriate time.
+My goal is to design a simple tool that can help improve a person’s quality of life by keeping a track of medications and reminding the users at the appropriate time.
 ### Tools Used
 
 ![MT_mockup1](../img_repo/MT.IMG.02.1.png){:width="400" height="200" loading="lazy"}
@@ -36,15 +36,15 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 
 ## UNDERSTANDING THE USER
 ### User Research
-I initiated my research by posing a series of inquiries to a diverse group of individuals to gain a deeper comprehension of their challenges and requirements when it comes to remembering their daily routines. The objective of this study was to gain insights into the individuals and their needs, and to prioritize them throughout the product design process. I gathered information by conducting one-on-one interviews to obtain a better understanding of the people and the challenges they encounter.
+I initiated my research by posing a series of inquiries to a diverse group of individuals to gain a deeper comprehension of their challenges and requirements when it comes to remembering their daily routines. The objective of this study was to gain insights into the individuals and their needs, and to prioritize them throughout the product design process. I gathered information by conducting **one-on-one Interviews** to obtain a better understanding of the people and the challenges they encounter.
 ### Personas
 #### Persona 1: Michelle Stewart
-> Problem statement: Michelle is an Investment Banker who needs timely medication reminders because she forgets on busy work days.
+> Problem Statement: Michelle is an Investment Banker who needs timely medication reminders because she forgets on busy work days.
 
-![Persona1](../img_repo/MT.IMG.05.1.Michelle.R1.png){:width="800" height="450" loading="lazy"}
+![Persona1](../img_repo/MT.IMG.05.1.Michelle.R2.png){:width="800" height="450" loading="lazy"}
 
 #### Persona 2: Mark Jacobs
-> Problem statement: Mark is a retired Salesperson who needs to keep track of various medicines because of his medical conditions.
+> Problem Statement: Mark is a retired Salesperson who needs to keep a track of various medicines because of his medical conditions.
 
 ![Persona2](../img_repo/MT.IMG.05.2.png){:width="800" height="450" loading="lazy"}
 
@@ -68,7 +68,7 @@ Additionally, I performed a Usability Study to identify any Pain Points that use
 
 ![Persona2](../img_repo/MT.IMG.09.1.png){:width="800" height="400" loading="lazy"}
 
-![Persona2](../img_repo/MT.IMG.09.2.png){:width="800" height="400" loading="lazy"}
+![Persona2](../img_repo/MT.IMG.09.2.R1.png){:width="800" height="400" loading="lazy"}
 
 ## AFFINITY DIAGRAM
 I created an Affinity Diagram, also known as a Cluster Map. It helped me organize information into groups of similar items, while analyzing qualitative data/observations.
