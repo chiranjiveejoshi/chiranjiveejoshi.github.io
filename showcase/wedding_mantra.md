@@ -62,7 +62,7 @@ I followed the ‘Design Thinking Framework’ for this project. The Design Thin
 
 #### Persona 2 : Mr. Chinmay Shahane
 
-![This is an image](../img_repo/WM.IMG.09.png){:width="800" height="400" loading="lazy"}
+![This is an image](../img_repo/WM.IMG.09.R1.png){:width="800" height="400" loading="lazy"}
 
 ### User Journey Map
 I created a User Journey Map which is an illustration of what the user goes through to achieve their goals. It helped me understand user’s problems, experiences, moods and behaviour, while using a product.
@@ -138,7 +138,7 @@ You can find my High-fidelity Prototypes if you visit [this link](https://www.fi
 ## TAKEAWAYS
 
 ### Impact
-The feedback I have gotten from the Final Prototype is Positive. My second Usability Study showed that the Design of this App meets the User’s needs.
+The feedback I have gotten from the final Prototype is positive. My second Usability Study showed that the Design of this App meets the User’s needs.
 
 **One quote from the peer feedback:**
 > "That’s a pretty good design and flow."
