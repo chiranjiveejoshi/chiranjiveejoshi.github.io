@@ -62,7 +62,7 @@ Streamline the process of booking tickets to save as much time and energy as pos
 that represent a diverse group of users. 
 * Also, I was able to discern their frustrations and anticipate their needs.
 
-![This is an image](../img_repo/CP.IMG.08.Persona.png){:width="1000" height="750" loading="lazy"}
+![This is an image](../img_repo/CP.IMG.08.Persona.R1.png){:width="1000" height="750" loading="lazy"}
 
 ### User Journey Map
 * I created a User Journey Map which is an illustration of what the user goes through to achieve their goals. 
